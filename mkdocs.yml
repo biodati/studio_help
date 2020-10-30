@@ -1,0 +1,97 @@
+site_name: BioDati Studio Help
+nav:
+  - Home: index.md
+  - About: about.md
+  - Users:
+    - Overview:
+      - Facets: sections/overview/facets.md
+      - Reset your password: sections/overview/reset_your_password.md
+      - BioDati Glossary: sections/overview/biodati_glossary.md
+      - Banner Functions: sections/overview/banner_functions.md
+      - How to get help: sections/overview/how_to_get_help.md
+      - Key Symbols to Know: sections/overview/key_symbols_to_know.md
+      - Getting started: sections/overview/getting_started.md
+    - Knowledge:
+      - Editing Assertions: sections/knowledge/editing_assertions.md
+      - Assertion Validation: sections/knowledge/assertion_validation.md
+      - Adding Assertions: sections/knowledge/adding_assertions.md
+      - Adding/Editing Annotations: sections/knowledge/adding_editing_annotations.md
+      - Collections-Adding and editing Metadata: sections/knowledge/collections-adding_and_editing_metadata.md
+      - BEL Namespaces: sections/knowledge/bel_namespaces.md
+      - Bulk Assertion Uploads: sections/knowledge/bulk_assertion_uploads.md
+      - A Walk Through The Curation Interface- Adding Knowledge: sections/knowledge/a_walk_through_the_curation_interface-_adding_knowledge.md
+      - Using the Fix status-A walk through of the new Fix status with Internal Comments: sections/knowledge/using_the_fix_status-a_walk_through_of_the_new_fix_status_with_internal_comments.md
+      - Using the Fix status: sections/knowledge/using_the_fix_status.md
+      - Searching Knowledge Overview: sections/knowledge/searching_knowledge_overview.md
+      - NanoPub Statuses and What They Mean: sections/knowledge/nanopub_statuses_and_what_they_mean.md
+      - Search Facet Navigation: sections/knowledge/search_facet_navigation.md
+      - Pinning NanoPubs: sections/knowledge/pinning_nanopubs.md
+      - Advanced Searching: sections/knowledge/advanced_searching.md
+      - Temporary Nanopub Network: sections/knowledge/temporary_nanopub_network.md
+      - Editing a NanoPub: sections/knowledge/editing_a_nanopub.md
+      - How to use Completion when Editing or Creating an Assertion: sections/knowledge/how_to_use_completion_when_editing_or_creating_an_assertion.md
+      - Copying a NanoPub: sections/knowledge/copying_a_nanopub.md
+      - Reviewing a NanoPub: sections/knowledge/reviewing_a_nanopub.md
+      - Reviewing Pinned NanoPubs: sections/knowledge/reviewing_pinned_nanopubs.md
+      - Importing NanoPubs: sections/knowledge/importing_nanopubs.md
+      - Exporting Nanopubs: sections/knowledge/exporting_nanopubs.md
+    - Networks:
+      - Creating Networks and Adding Edges: sections/networks/creating_networks_and_adding_edges.md
+      - Hiding Nodes and Edges in Visualization: sections/networks/hiding_nodes_and_edges_in_visualization.md
+      - Source Code Editors: sections/networks/source_code_editors.md
+      - Importing Networks: sections/networks/importing_networks.md
+      - Exporting Networks: sections/networks/exporting_networks.md
+      - Searching Networks: sections/networks/searching_networks.md
+      - Making a Network Active Overview: sections/networks/making_a_network_active_overview.md
+      - Pinning Networks: sections/networks/pinning_networks.md
+      - Changing Display in Visualization: sections/networks/changing_display_in_visualization.md
+      - Searching for a Node in a Network: sections/networks/searching_for_a_node_in_a_network.md
+      - Toggle Pathing in Visualization: sections/networks/toggle_pathing_in_visualization.md
+      - Lassoing Nodes and Labels: sections/networks/lassoing_nodes_and_labels.md
+      - Deleting and Adding Edges in Visualizer: sections/networks/deleting_and_adding_edges_in_visualizer.md
+      - Creating a Network: sections/networks/creating_a_network.md
+      - Searching for Network Edges: sections/networks/searching_for_network_edges.md
+      - Creating an Orthologized Network: sections/networks/creating_an_orthologized_network.md
+      - Computed Edge Workflow: sections/networks/computed_edge_workflow.md
+      - Extending a Network: sections/networks/extending_a_network.md
+      - How to Add And Use Nodes in Your Clipboard: sections/networks/how_to_add_and_use_nodes_in_your_clipboard.md
+      - Creating a Subset Network within Tabular View: sections/networks/creating_a_subset_network_within_tabular_view.md
+      - How to Reset a Selection Using the Tabular View: sections/networks/how_to_reset_a_selection_using_the_tabular_view.md
+    - Projects:
+      - Adding and Removing Nanopubs from an Active Project.: sections/projects/adding_and_removing_nanopubs_from_an_active_project..md
+      - Adding and Removing Networks from a Project: sections/projects/adding_and_removing_networks_from_a_project.md
+      - Creating a Project: sections/projects/creating_a_project.md
+      - Projects: sections/projects/projects.md
+      - Adding Networks and Nanopubs to a Project: sections/projects/adding_networks_and_nanopubs_to_a_project.md
+      - Activating a Project: sections/projects/activating_a_project.md
+  - Developer Notes:
+    - Browser Hard Refresh: sections/dev/browser_hard_refresh.md
+    - API Documentation: sections/dev/api_documentation.md
+    - API Access using JWT token: sections/dev/api_access_using_jwt_token.md
+    - Functional accounts: sections/dev/functional_accounts.md
+    - Custom Namespaces/Terminologies: sections/dev/custom_namespaces_terminologies.md
+  - Administration:
+    - VPN and IP-address restriction: sections/admin/vpn_and_ip-address_restriction.md
+
+# theme:
+#   name: null
+#   custom_dir: 'cinder'
+
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: pink
+    accent: cyan
+  logo: https://biodati.com/img/biodati-logo-v2.png
+  favicon: img/favicon.ico
+
+markdown_extensions:
+- toc:
+    permalink: true
+- admonition
+- extra
+
+plugins:
+  - roamlinks
+  - search
