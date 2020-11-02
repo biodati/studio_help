@@ -29,11 +29,12 @@ jobs:
         aws s3 sync ./site/ s3://helpdev.biodati.com --delete
 
     - name: Slack Notification
-        uses: homoluctus/slatify@master
-        if: always()
-        with:
-            type: ${{ job.status }}
-            job_name: "*Deployed helpdev.biodati.com*"
-            mention_if: "success"
-            channel: "#devops"
-            url: ${{ secrets.SLACK_DEVOPS_WEBHOOK }}
+      uses: homoluctus/slatify@master
+      if: always()
+      with:
+        type: ${{ job.status }}
+        job_name: '*Deployment to Thor*'
+        mention_if: 'success'
+        channel: '#devops'
+        url: ${{ secrets.SLACK_DEVOPS_WEBHOOK }}
+
