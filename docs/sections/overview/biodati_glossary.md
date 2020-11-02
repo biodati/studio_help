@@ -33,7 +33,11 @@ A terminology used to unambiguously identify a gene/protein, biological process,
 
 **Annotations**
 
-Annotations capture the context of the Assertions such as the experimental context, what organism, disease state, experimental method, etc.  **Assertion**  The key assertion(s) being made in a BEL Nanopub. It is an expression that represents knowledge of the existence of biological entities and relationships between them that are known to be observed within a particular experiment context (i.e. Annotations), based on some source of prior knowledge such as a scientific publication or newly generated experimental data.
+Annotations capture the context of the Assertions such as the experimental context, what organism, disease state, experimental method, etc.  
+
+**Assertion**  
+
+The key assertion(s) being made in a BEL Nanopub. It is an expression that represents knowledge of the existence of biological entities and relationships between them that are known to be observed within a particular experiment context (i.e. Annotations), based on some source of prior knowledge such as a scientific publication or newly generated experimental data.
 
 
 **Pinned**  
