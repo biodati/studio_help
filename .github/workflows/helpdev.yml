@@ -33,7 +33,7 @@ jobs:
 
     - name: Sync output to S3
       run: |
-        aws s3 sync ./site/ s3://helpdev.biodati.com --delete
+        aws s3 sync ./site/ s3://helpdev.biodati.com --delete --acl public-read
 
     - name: Slack Notification
       uses: homoluctus/slatify@master
