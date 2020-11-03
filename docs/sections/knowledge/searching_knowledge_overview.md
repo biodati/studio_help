@@ -1,4 +1,6 @@
 # Searching Knowledge Overview
+ 
+ ## How to find NanoPubs, expand assertions, and utilize the facets.
 
 When you're ready to search for a NanoPub, you can get there a few different ways. The easiest way is through the home screen, otherwise known as the dashboard.
 Once you've landed yourself on the dashboard, you'll see a box that says "Knowledge," under it will be a couple of options. Click "Search."
@@ -27,5 +29,6 @@ Once you've landed yourself on the dashboard, you'll see a box that says "Knowle
 
 ![[knowledge_41.png]]
 
-    [Advanced Searching](https://help.biodati.com/nanopubs/searching/advanced-searching)
+[Advanced Searching](https://help.biodati.com/nanopubs/searching/advanced-searching)
+
 [Nanopubs Statuses](https://help.biodati.com/en/articles/2715370-nanopub-statuses-and-what-they-mean)
