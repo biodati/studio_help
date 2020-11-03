@@ -14,5 +14,5 @@ As soon as you are done and click "+" it will immediately show up in the box bel
 
 ![[knowledge_58.png]]
 
-   After it's been created, it will automatically be saved.
+   After it's been created, saving your nanopub will run validation, so the computer can help you check for any problems with your assertion(s).
 [Editing a Nanopub](https://help.biodati.com/en/articles/2159178-editing-a-nanopub)
