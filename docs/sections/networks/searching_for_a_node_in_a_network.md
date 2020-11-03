@@ -13,7 +13,12 @@ Once you're in the tabular view, you should see it says "Nodes" on the side, cli
 
 ![[networks_35.png]]
 
-    [Lassoing Nodes in a Network](https://help.biodati.com/networks/visualization/lassoing-nodes-and-labels)
+    
+    
+[Lassoing Nodes in a Network](https://help.biodati.com/networks/visualization/lassoing-nodes-and-labels)
+    
 [Changing Display in Visualization](https://help.biodati.com/networks/visualization/changing-display-in-visualization)
+
 [Toggle Pathing in Visualization](https://help.biodati.com/networks/visualization/toggle-pathing-in-visualization)
+
 [Hiding Nodes and Edges in Visualization](https://help.biodati.com/networks/visualization/hiding-nodes-and-edges-in-visualization)
