@@ -50,11 +50,9 @@ You can also start with a subcomponent of the node if you check the  ***contains
 For example: complex(p(HGNC:ITGAV), p(HGNC:ITGB5)) has the following components:
 
 *  p(HGNC:ITGAV)
-*  HGNC:ITGAV
 *  p(HGNC:ITGB5)
-*  HGNC:ITGB5
 
-You can search for nodes containing HGNC:ITGB5 for example to get any nodes containing that protein.
+You can search for nodes containing p(HGNC:ITGB5) for example to get any nodes containing that protein.
 
 You can also set the number of steps (1 - 5). However, more steps will cause the query to run for a longer time and may explode the number of edges returned.
 
