@@ -1,6 +1,7 @@
 # Pinning Networks
 
 If you've found a Network that you would like to add to a list for further review while still having the option to review other Networks, Pinning is the perfect feature for you to use.
+
 Once a Network is selected, look to the top and you'll see a thumbtack.
 
 ![[networks_28.png]]
