@@ -13,7 +13,11 @@ As you begin to get comfortable with lassoing, you might be wondering what featu
 ![[networks_40.png]]
 
    And just like that, everything is back to normal!
+   
 [Lassoing Nodes and Labels](https://help.biodati.com/networks/visualization/lassoing-nodes-and-labels)
+
 [Toggle Pathing in Visualization](https://help.biodati.com/networks/visualization/toggle-pathing-in-visualization)
+
 [Searching for a Node in a Network](https://help.biodati.com/networks/visualization/searching-for-a-node-in-a-network)
+
 [Toggle Pathing in Visualization](https://help.biodati.com/networks/visualization/changing-display-in-visualization)
