@@ -28,3 +28,6 @@ Again, make sure your network is active and visualized, then go to the top and f
 
 ![[networks_50.png]]
 
+## Note: 
+Edges added under visualizer will be added to your Network but not to the Edge Store, since they have no nanopub associated with them.
+
