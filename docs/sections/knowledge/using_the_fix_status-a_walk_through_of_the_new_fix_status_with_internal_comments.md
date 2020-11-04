@@ -11,4 +11,4 @@
 
 ![[knowledge_31.png]]
 
-   The Internal Comments Toggle is lost when nanopubs are approved. The Internal Comments are automatically stripped from the nanopub when it is finalized, copied or exported.
+   The Internal Comments are removed when nanopubs are Approved or Finalized. The Internal Comments are automatically stripped from the nanopub when it is copied or exported, regardless of status.
