@@ -16,7 +16,7 @@ Rejected: Nanopub has been rejected (terminal status). Nanopub cannot be used
 to build Networks.
 
 Finalized: Nanopub has been Approved and is in a final state. It is locked and will be
-processed by BEL Pipeline into the EdgeStore. 
+processed by the BEL Pipeline into the EdgeStore. 
 
 Admin users are allowed to change the status to ‘Rejected and Finalized’ nanopubs.
 Regular users may only be allowed to set the status of NanoPubs to ‘Draft, Review, Fix, and Approved.’
