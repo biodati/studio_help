@@ -6,8 +6,11 @@ There are two basic assertion types; subject/relation/object and subject only.
 ![[knowledge_2.png]]
 
 You may use either. Object only and Relation/Object assertions are not allowed.
+
 To enter an Assertion;
+
 *  Click in the Subject Box.
+
 *  Type the correct function or select the function from the list provided by the completion engine.
 
 ![[knowledge_3.png]]
@@ -17,7 +20,11 @@ To enter an Assertion;
 ![[knowledge_4.png]]
 
 *  Select the Relation from the drop down list.
+
 *  Enter the Object. The completion engine will help.
+
 *  When the assertion is complete, click the ADD button.
+
 [http://help.biodati.com/en/articles/3960286-assertion-validation](https://help.biodati.com/en/articles/3960286-assertion-validation)
+
 [http://help.biodati.com/en/articles/3960509-editing-assertions](https://help.biodati.com/en/articles/3960509-editing-assertions)
