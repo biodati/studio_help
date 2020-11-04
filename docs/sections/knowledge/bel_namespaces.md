@@ -1,11 +1,17 @@
 # BEL Namespaces
 
 We use standardized namespaces so that we can identify an object unambiguously. This allows us to identify the same object in different namespaces, identify orthologs, and check for consistency in BEL statements.
+
 E.g. BEL Assertion: a(CHEMBL:water)
-2.  CHEMBL:water is a chemical compound and is valid to have in a() function
-4.  CHEMBL:water is canonicalized to CHEBI:water so that we only have one edge for a(CHEMBL:water) and a(CHEBI:water)
-6.  Queries against the edgestore would then include a search for CHEMBL:water converted to CHEBI:water
+
+1.  CHEMBL:water is a chemical compound and is valid to have in a() function
+
+2.  CHEMBL:water is canonicalized to CHEBI:water so that we only have one edge for a(CHEMBL:water) and a(CHEBI:water)
+
+3.  Queries against the edgestore would then include a search for CHEMBL:water converted to CHEBI:water
+
 E.g. The human g(HGNC:ACE2) is orthologous to mouse g(MGI:Ace2).
+
 E.g. In this example of metabolomics data, there are contradictory BEL statements:
 
 ![[knowledge_12.png]]
@@ -18,12 +24,19 @@ E.g. In this example of metabolomics data, there are contradictory BEL statement
 
 ![[knowledge_14.png]]
 
-Some useful Namespace databases:
+## Some useful Namespace databases:
+
 GO <http://geneontology.org/>
+
 MGI <http://www.informatics.jax.org/mgihome/GO/querying.shtml>
-MeSH <https://www.ncbi.nlm.nih.gov/mesh>
-ChEBI <https://www.ebi.ac.uk/chebi/advancedSearchFT.do>
-ChEMBL <https://www.ebi.ac.uk/chembl/>
+
+MESH <https://www.ncbi.nlm.nih.gov/mesh>
+
+CHEBI <https://www.ebi.ac.uk/chebi/advancedSearchFT.do>
+
+CHEMBL <https://www.ebi.ac.uk/chembl/>
+
 HGNC <https://www.genenames.org/tools/search/#!/genes?query=>
+
 DO <https://disease-ontology.org/>
-UniProt <https://www.uniprot.org/>
+
