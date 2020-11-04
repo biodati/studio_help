@@ -1,6 +1,9 @@
 # Bulk Assertion Uploads
 
-If you have a list of assertions that you wish to add to a single nanopub, you can use the bulk upload feature. First, assemble your assertions in a spread sheet, such that you have three adjacent columns; Subject, Relation, and Object columns.
+If you have a list of assertions that you wish to add to a single nanopub, you can use the bulk upload feature. 
+
+First, assemble your assertions in a spread sheet, such that you have three adjacent columns; Subject, Relation, and Object columns.
+
 Copy the list of assertions in these three columns to your clipboard. Then click the Bulk Import button.
 
 ![[knowledge_15.png]]
@@ -12,4 +15,9 @@ Copy the list of assertions in these three columns to your clipboard. Then click
 ![[knowledge_17.png]]
 
    All your copied assertions should then appear in the curation form.
-*Warning — the validation for each assertion currently takes about 1 second so very large Bulk loads can take a while to save and show you the validation errors. We are working to speed validation up by at least an order of magnitude if not more.*
+   
+   Validation is run in the background after you save your assertions.
+   
+*Warning — the validation for each assertion currently takes less than a second, but very large Bulk loads can take a while for validation to complete.
+
+If validation is not complete after the initial save, You can continue to work on that nanopub, or another, then resave or reload to see the updated validation.
