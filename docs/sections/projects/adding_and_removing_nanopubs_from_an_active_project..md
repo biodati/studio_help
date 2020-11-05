@@ -16,4 +16,4 @@ You can add nanopubs to your active project from Knowledge Search. Earmarks indi
 
 ![[projects_3.png]]
 
-see also: Adding and Removing Networks from a Project; <https://app.intercom.com/a/apps/q01vyayo/articles/articles/4172191/show>
+see also: [Adding and Removing Networks from a Project](https://help.biodati.com/en/articles/4172191-adding-and-removing-networks-from-a-project)
