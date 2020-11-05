@@ -54,9 +54,7 @@ After filtering the edges using the facets, you can then select all remaining ed
 
    After saving it, you can find it by clicking on the search icon #1 and then 'Networks'. To quickly filter to your networks, click the 'Me' checkbox #2 and then you should see your new network #3. Once your networks start building up, you can utilize the facets to narrow down the networks that you've created.
 When re-opening a network that you created, you'll notice on the side it says "Add Edges" and "Edit." As the creator of that network, you are the only ones with those options.
-[
+
 ![[networks_58.png]]
-
-](https://downloads.intercomcdn.com/i/o/76881297/255826df40be1d0e89c7a399/network+owner.png)         
-
+    
 [Extending A Network](https://help.biodati.com/networks/creating-and-editing-networks/extending-a-network)
