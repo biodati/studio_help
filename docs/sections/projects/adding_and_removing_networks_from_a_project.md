@@ -20,5 +20,4 @@ The Project page displays the current Networks in your Project. Links from the P
 
 ![[projects_8.png]]
 
-   See also: Adding and Removing Nanopubs from an Active Project Project.
-[http://help.biodati.com/en/articles/4173438-adding-and-removing-nanopubs-from-an-active-project](https://help.biodati.com/en/articles/4173438-adding-and-removing-nanopubs-from-an-active-project)
+   See also: [Adding and Removing Nanopubs from an Active Project Project](http://help.biodati.com/en/articles/4173438-adding-and-removing-nanopubs-from-an-active-project)
