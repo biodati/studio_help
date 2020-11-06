@@ -57,4 +57,4 @@ When re-opening a network that you created, you'll notice on the side it says "A
 
 ![[networks_58.png]]
     
-[[extending_a_network.md]]
+[[Extending a Network]]
