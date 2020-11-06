@@ -57,6 +57,7 @@ nav:
       - How to Add And Use Nodes in Your Clipboard: sections/networks/how_to_add_and_use_nodes_in_your_clipboard.md
       - Creating a Subset Network within Tabular View: sections/networks/creating_a_subset_network_within_tabular_view.md
       - How to Reset a Selection Using the Tabular View: sections/networks/how_to_reset_a_selection_using_the_tabular_view.md
+      - Combining Networks: sections/networks/Combining_Networks.md
     - Projects:
       - Adding and Removing Nanopubs from an Active Project.: sections/projects/adding_and_removing_nanopubs_from_an_active_project..md
       - Adding and Removing Networks from a Project: sections/projects/adding_and_removing_networks_from_a_project.md
