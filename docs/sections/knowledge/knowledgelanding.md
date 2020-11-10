@@ -6,9 +6,9 @@ It can be accessed either from the dashboard, by clicking the search icon in the
 
 ![[knowledge.jpg]]
 
-On the left of the page you will find the search feature (1), and facets (2) which will allow you to narrow your search. Please see <http://helpdev.biodati.com/sections/knowledge/searching_knowledge_overview/> for more details.
+On the left of the page you will find the search feature (1), and facets (2) which will allow you to narrow your search. Please see [[Searching Knowledge Overview]] for more details.
 At the upper right, you will find an icon (3) that allows you to export your filtered nanopubs, or use them to build a temporary Network (4). 
-Please see <http://helpdev.biodati.com/sections/knowledge/exporting_nanopubs/> , and http://helpdev.biodati.com/sections/knowledge/temporary_nanopub_network> for more information. 
+Please see [[Exporting Nanopubs]], and [[Temporary Nanopub Network]] for more information. 
 
 ![[knowledge2.jpg]]
 
