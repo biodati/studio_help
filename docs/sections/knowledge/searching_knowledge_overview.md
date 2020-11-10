@@ -5,9 +5,9 @@
 When you're ready to search for a NanoPub, you can get there a few different ways. The easiest way is through the home screen, otherwise known as the dashboard.
 Once you've landed yourself on the dashboard, you'll see a box that says "Knowledge," under it will be a couple of options. Click "Search."
 
-![[knowledge_35.png]]
-
 ![[knowledge_36.png]]
+
+![[knowledge_35.png]]
 
    You will then see the Knowledge page, filled with thousands of different NanoPubs. You'll see a magnification glass, when you click it, a box will pop up underneath to help you with the search. If you click one of one of the words in the box, it will show up in your search area.
 
