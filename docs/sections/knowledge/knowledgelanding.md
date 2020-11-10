@@ -4,13 +4,13 @@ The Knowledge Search Landing Page is the starting point from which you search fo
 
 It can be accessed either from the dashboard, by clicking the search icon in the knowledge field (1), or through the dropdown menu under the Search icon in the banner (2).
 
-![[knowledge1.jpeg]]
+![[knowledge.jpg]]
 
-On the left of the page you will find the search feature (1), and facets (2) which will allow you to narrow your search. Please see () for more details.
+On the left of the page you will find the search feature (1), and facets (2) which will allow you to narrow your search. Please see <http://helpdev.biodati.com/sections/knowledge/searching_knowledge_overview/> for more details.
 At the upper right, you will find an icon (3) that allows you to export your filtered nanopubs, or use them to build a temporary Network (4). 
-Please see () exporting and importing nanopubs, and () temporary Networks for more information. 
+Please see <http://helpdev.biodati.com/sections/knowledge/exporting_nanopubs/> , and http://helpdev.biodati.com/sections/knowledge/temporary_nanopub_network> for more information. 
 
-![[knowledge2.jpeg]]
+![[knowledge2.jpg]]
 
 The bulk of the page is the list of nanopubs.  Hover over a nanopub.  The nanopub you select will be higlighted, and hover icons will appear.  These icons are designed to help
 the curation process. 
@@ -23,10 +23,10 @@ the curation process.
 6) Pin.  This allows you find this nanopub again more easily. 
 
 
-Click on a nanopub.  The Nanopub Review will open.  See () for reviewing nanopubs
+Click on a nanopub.  The Nanopub Review will open. 
 
 
-![[knowledge3.jpeg]]
+![[knowledge3.jpg]]
 
 
 
