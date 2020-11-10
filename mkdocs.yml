@@ -12,7 +12,7 @@ nav:
       - Key Symbols to Know: sections/overview/key_symbols_to_know.md
       - Getting started: sections/overview/getting_started.md
     - Knowledge:
-      - Introduction to the Knowledge Search Landing Page: sections/knowledge/Create knowledgelanding.md
+      - Introduction to the Knowledge Search Landing Page: sections/knowledge/knowledgelanding.md
       - Editing Assertions: sections/knowledge/editing_assertions.md
       - Assertion Validation: sections/knowledge/assertion_validation.md
       - Adding Assertions: sections/knowledge/adding_assertions.md
