@@ -1,20 +1,25 @@
 # API Access using JWT token
 
-## How to access the secured API endpoints
-
 The API endpoints are secured and expect a Bearer token in the headers.
 
-You can get the required token from:
-http://studio\_api.<STUDIO\_NICKNAME>.biodati.com/docs#/Security/token\_token\_post
+You can get the required token (for Enterprise customers) using this endpoint:
 
-Just replace STUDIO\_NICKNAME with the appropriate value.
+[http://userstore.NICKNAME.biodati.com/#/Authentication/get_api_token_auth_api_token_post](http://userstore.NICKNAME.biodati.com/#/Authentication/get_api_token_auth_api_token_post)
 
-You only need to fill in your  **email**  and  **password**  to get the token (the other options are for other types of token requests).
+Just replace NICKNAME with the appropriate value.
 
-From this endpoint, you will get an id\_token and an access\_token. Please use the id\_token.
+or for the BioDati Studio Demo server:
 
-Add the id\_token to any REST API requests you have by adding an http header using the following format:
+[http://userstore.biodatistudio.com/#/Authentication/get_api_token_auth_api_token_post](http://userstore.biodatistudio.com/#/Authentication/get_api_token_auth_api_token_post)
 
-AUTHORIZATION: Bearer <id\_token>
 
-The token will periodically expire (after 24 hours) and will need to be updated. If you get a 401 error from the API call, the token is invalid and needs to be updated.
+Add the token to any REST API requests you have by adding an http header using the following format:
+
+    AUTHORIZATION: Bearer <token>
+
+!!! note
+    The token will expire after a year and will need to be updated. If you get a 401 error from the API call, the token is invalid and needs to be updated. Of course, this token is basically the same as your password.
+
+!!! warning
+    This token is basically your password for this account. Please keep it secure. If you need to change it, just access
+    the endpoint to get a new token which will invalidate the old token.
