@@ -9,7 +9,7 @@ Once you've landed yourself on the dashboard, you'll see a box that says "Knowle
 
 You will then see the Knowledge page, filled with over a hundred thousand different NanoPubs. You will need to narrow down this list of nanopubs to find the ones of interest.  BioDati Studio provides two types of tools to do this: a Search Field, and Facets.
 
-![[knowledge5.jpg]]
+![[knowledg5.jpg]]
 
 To use the Search Field, enter your search beside the magnifying glass and hit return.  You can directly enter a key word, a PUBMED ID, or a nanopub ID. You can also do a field restricted search. If you double click beside the magnification glass, a box will pop up underneath to help you with the search. If you click one of the words in the box, it will show up in your search area. For tips on searching, please see [[Advanced Searching]]
 
@@ -21,11 +21,11 @@ Knowledge Search Facets are divided into Statuses (nanopub curation status), Own
 
 ![[knowledge8.jpg]]
 
-For more information on the use of Facets see[[Search Facet Navigation]]
+For more information on the use of Facets see  [[Search Facet Navigation]]
 See also [[NanoPub Statuses and What They Mean]]
 
 When you select (click) a NanoPub, you will open the Nanopub Review screen.
 
 ![[knowledge 9.jpg]]
 
-[[Reviewing a NanoPub¶]]
+ [[Reviewing a NanoPub]]
