@@ -84,8 +84,8 @@ theme:
   name: material
   palette:
     scheme: default
-    primary: pink
-    accent: cyan
+    primary: deep orange
+    accent: blue
   logo: https://biodati.com/img/biodati-logo-v2.png
   favicon: img/favicon.ico
 
