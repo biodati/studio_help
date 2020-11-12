@@ -20,6 +20,6 @@ and after logging in you will arrive at the Studio Dashboard
 
 ![[overview_41.png]]
 
-[BioDati Glossary](https://help.biodati.com/en/articles/2321750-biodati-glossary)
+[[BioDati Glossary]]
 
-[Searching Nanopubs](https://help.biodati.com/en/articles/2679455-searching-nanopubs-overview)
+[[Searching Nanopubs]]
