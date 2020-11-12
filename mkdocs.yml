@@ -4,13 +4,14 @@ nav:
   - About: about.md
   - Users:
     - Overview:
-      - Facets: sections/overview/facets.md
       - Reset your password: sections/overview/reset_your_password.md
       - BioDati Glossary: sections/overview/biodati_glossary.md
-      - Banner Functions: sections/overview/banner_functions.md
       - How to get help: sections/overview/how_to_get_help.md
       - Key Symbols to Know: sections/overview/key_symbols_to_know.md
       - Getting started: sections/overview/getting_started.md
+      - Banner Functions: sections/overview/banner_functions.md
+      - The BEL pipeline and Edge Types: sections/overview/The BEL pipeline.md
+      - Facets: sections/overview/facets.md
     - Knowledge:
       - Introduction to the Knowledge Search Landing Page: sections/knowledge/knowledgelanding.md
       - Editing Assertions: sections/knowledge/editing_assertions.md
