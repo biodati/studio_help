@@ -22,4 +22,4 @@ and after logging in you will arrive at the Studio Dashboard
 
 [[BioDati Glossary]]
 
-[[Searching Knowledge Overview]]
+[[Introduction to the Knowledge Search Landing Page]]

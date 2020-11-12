@@ -7,7 +7,7 @@ It can be accessed either from the dashboard, by clicking the search icon in the
 ![[knowledge.jpg]]
 
 On the left of the page you will find the search feature (1), and facets (2) which will allow you to narrow your search. Please see [[Searching Knowledge Overview]] for more details.
-At the upper right, you will find an icon (3) that allows you to export your filtered nanopubs, or use them to build a temporary Network (4). 
+At the upper right, you will find an icon (3) that allows you to export your filtered nanopubs, or use them to build a Temporary Network (4). 
 Please see [[Exporting Nanopubs]], and [[Temporary Nanopub Network]] for more information. 
 
 ![[knowledge2.jpg]]
@@ -15,7 +15,7 @@ Please see [[Exporting Nanopubs]], and [[Temporary Nanopub Network]] for more in
 The bulk of the page is the list of nanopubs.  Hover over a nanopub.  The nanopub you select will be higlighted, and hover icons will appear.  These icons are designed to help
 the curation process. 
 
-1) The Edge Report for the nanopub.  It presents not just the orrigional assertions, but the orthologized and computed edges associated with that nanopub as well.
+1) The Edge Report for the nanopub.  It presents not just the original assertions, but the orthologized and computed edges associated with that nanopub as well.
 2) The nanopub URL
 3) The nanopub Reference Report.  It lists all nanopubs associated with this nanopubs citation.
 4) Nanopub Export.  It allows you to export a single nanopub.
