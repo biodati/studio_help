@@ -14,6 +14,12 @@ nav:
       - Reset your password: sections/overview/reset_your_password.md
     - Knowledge:
       - Introduction to the Knowledge Search Landing Page: sections/knowledge/knowledgelanding.md
+      - Searching Knowledge Overview: sections/knowledge/searching_knowledge_overview.md
+      - Advanced Searching: sections/knowledge/advanced_searching.md
+      - Search Facet Navigation: sections/knowledge/search_facet_navigation.md
+      - Pinning NanoPubs: sections/knowledge/pinning_nanopubs.md
+      - Temporary Nanopub Network: sections/knowledge/temporary_nanopub_network.md
+      - A Walk Through The Curation Interface- Adding Knowledge: sections/knowledge/a_walk_through_the_curation_interface-_adding_knowledge.md
       - Editing Assertions: sections/knowledge/editing_assertions.md
       - Assertion Validation: sections/knowledge/assertion_validation.md
       - Adding Assertions: sections/knowledge/adding_assertions.md
@@ -21,15 +27,9 @@ nav:
       - Collections-Adding and editing Metadata: sections/knowledge/collections-adding_and_editing_metadata.md
       - BEL Namespaces: sections/knowledge/bel_namespaces.md
       - Bulk Assertion Uploads: sections/knowledge/bulk_assertion_uploads.md
-      - A Walk Through The Curation Interface- Adding Knowledge: sections/knowledge/a_walk_through_the_curation_interface-_adding_knowledge.md
       - Using the Fix status-A walk through of the new Fix status with Internal Comments: sections/knowledge/using_the_fix_status-a_walk_through_of_the_new_fix_status_with_internal_comments.md
       - Using the Fix status: sections/knowledge/using_the_fix_status.md
-      - Searching Knowledge Overview: sections/knowledge/searching_knowledge_overview.md
       - NanoPub Statuses and What They Mean: sections/knowledge/nanopub_statuses_and_what_they_mean.md
-      - Search Facet Navigation: sections/knowledge/search_facet_navigation.md
-      - Pinning NanoPubs: sections/knowledge/pinning_nanopubs.md
-      - Advanced Searching: sections/knowledge/advanced_searching.md
-      - Temporary Nanopub Network: sections/knowledge/temporary_nanopub_network.md
       - Editing a NanoPub: sections/knowledge/editing_a_nanopub.md
       - How to use Completion when Editing or Creating an Assertion: sections/knowledge/how_to_use_completion_when_editing_or_creating_an_assertion.md
       - Copying a NanoPub: sections/knowledge/copying_a_nanopub.md
