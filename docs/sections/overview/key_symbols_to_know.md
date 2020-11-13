@@ -51,7 +51,7 @@ Two stacked sheets mean "copy."
 
 The page with an arrow pointing past the upper right hand corner means "open in a new tab."
 
-![[save6.jpg]]
+![[save6a.jpg]]
 
 ![[save7.jpg]]
 
