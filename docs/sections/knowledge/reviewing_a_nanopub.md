@@ -6,9 +6,9 @@ Click on a Nanopub on the Knowledge Search page to open the Review window. Once 
 
 Open the abstract field by clicking "Abstract".  
 
-![[review2]]
+![[review2.jpg]]
 
-You can update the status of a nanopub by using the status drop down menu.  See [[nanopub_statuses_and_what_they_mean]] for an explanation of the different nanopub statuses.  
+You can update the status of a nanopub by using the status drop down menu.  See [[nanopub statuses and what they mean]] for an explanation of the different nanopub statuses.  
 **NOTE: Nanopubs that have been Finalized cannot be edited.**
 
 ![[review3.jpg]]
