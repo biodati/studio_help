@@ -1,6 +1,6 @@
 # Facets
 
-When looking through the Facets which is found on any search, you can scroll through the facets and expand on the options with the little down arrow next to each facet subject. When you click it the options will appear under it, you can hide them again by clicking the arrow that should be facing up now. Below you can see an expanded facet above a facet that is not expanded.
+When looking through the Facets which are found on any search, you can scroll through the facets and expand on the options with the little down arrow next to each facet subject. When you click it the options will appear under it, you can hide them again by clicking the arrow that should be facing up now. Below you can see an expanded facet above a facet that is not expanded.
 
 ![[overview_0.png]]
 
@@ -8,4 +8,4 @@ When looking through the Facets which is found on any search, you can scroll thr
 
 ![[overview_1.png]]
 
-   Clicking "GO" at the top officially load your narrowed down search results.
+   Clicking "GO" at the top will officially load your narrowed down search results.  The results will be displayed on the right side of the page.
