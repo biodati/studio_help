@@ -5,7 +5,7 @@ There are more edges created that there are assertions in the nanopub.  The Edge
 
 The Edge Report can be accessed by clicking the hover icon that appears above any nanopub on the Knowledge Search page.  Below is an example Edge Report.
 
-![[edgereport.jpg]]
+![[edges1.jpg]]
 
 Each assertion is canonicalized during processing. BEL requires the use of a namespace and identifier for every object.  
 This allows us to find object equivalences in multiple namespaces, so we can combine information from divergent sources. 
