@@ -11,4 +11,4 @@
 
 ![[fix3.jpg]]
 
-   The Internal Comments are removed when nanopubs are Approved or Finalized. The Internal Comments are automatically stripped from the nanopub when it is copied or exported, regardless of status.
+   The Internal Comments are removed when nanopubs are Approved or Finalized. The Internal Comments are automatically stripped from the nanopub when it is copied or exported, regardless of status. 
