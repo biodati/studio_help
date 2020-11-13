@@ -33,7 +33,7 @@ These four squares indicate "dashboard" which will always take you back to the m
 
 The disk icon means "save."
 
-![save.jpg]]
+![[save.jpg]]
 
 ![[save2.jpg]]
 
