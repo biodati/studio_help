@@ -62,7 +62,7 @@ The arrowhead pointing left usually found on the top left corner means "back to 
 ![[overview_27.png]]
 
 The check mark means "make active."
-[
+
 ![[overview_28.png]]
 
 ![[overview_29.png]]
