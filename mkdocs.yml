@@ -13,7 +13,7 @@ nav:
       - How to get help: sections/overview/how_to_get_help.md
       - Reset your password: sections/overview/reset_your_password.md
     - Knowledge:
-      - Introduction to the Knowledge Search Landing Page: sections/knowledge/knowledgelanding.md
+      - Introduction to the Knowledge Search Landing Page: sections/knowledge/knowledge search landing page.md
       - Searching Knowledge Overview: sections/knowledge/searching_knowledge_overview.md
       - Advanced Searching: sections/knowledge/advanced_searching.md
       - Search Facet Navigation: sections/knowledge/search_facet_navigation.md
