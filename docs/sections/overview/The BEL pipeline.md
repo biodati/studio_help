@@ -15,15 +15,15 @@ Each assertion is canonicalized during processing. BEL requires the use of a nam
 
 The BEL pipeline adds **Orthologized Edges**- equivalent edges in different species- usually mouse, rat, or human.  In the example above, *this adds two new edges*.
 
-**Computed Edges** are computer generated edges added to aid Network building.  They include hasMember, hasComponent, hasActivity, hasModification, hasFragment, hasLocation, equivalentTo, hasReactant and hasProduct relationships. They are also orthologized, in this case, hasActivity edges are added, generating *three new edges*, for a total of six edges from this one assertion.  
+**Computed Edges** are computer generated edges added to aid Network building.  They include hasMember, hasComponent, hasActivity, hasModification, hasFragment, hasLocation, equivalentTo, hasReactant and hasProduct relation containing edges. They are also orthologized, in this case, hasActivity edges are added, generating *three new edges*, for a total of six edges from this one assertion.  
 
-**Backbone Edges**, translatedTo and transcribedTo edges, are computer generated edges available in the Edge Store to aid Network building.  They are not associated with specific nanopubs.
+**Backbone Edges**, translatedTo and transcribedTo containing edges, are computer generated edges available in the Edge Store to aid Network building.  They are not associated with specific nanopubs.
 
 ## Special Edges
 
-BEL allows **Subject Only** assertions.  These are simple statements that an entity exists.  The pipeline translates these assertions into original edges with “null” relationships.
+BEL allows **Subject Only** assertions.  These are simple statements that an entity exists.  The pipeline translates these assertions into original edges with a “null” relation.
 
-BEL also allows for **Nested Assertions**, where the object of the assertion is itself an assertion. If all parts of the Nested Assertion are causal, the computer will use logic to generate additional original causal edges.  Correlation is not causation, so correlative relationships will not generate additional edges.
+BEL also allows for **Nested Assertions**, where the object of the assertion is itself an assertion. If all relations of the Nested Assertion are causal, the computer will use logic to generate additional original causal edges.  Correlation is not causation, so correlative relationships will not generate additional edges.
 
 For example, the assertion: a(A) increases (a(B) decreases a(C))
 
