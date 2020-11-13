@@ -4,21 +4,19 @@ First go to the  [https://studio.XXX.biodati.com](https://studio.xxx.biodat.com/
 
 You will be taken to a login screen
 
-![[overview_38.png]]
+![[signup1.jpg]]
 
-Select the Sign Up tab and fill out the form
+Select the Register tab and fill out the form
 
-![[overview_39.png]]
+![[signup2.jpg]]
 
 **You should immediately get an email (less than 60 seconds). If you don't see an email, please check your SPAM/Junk folder.**
 
-After clicking the email verification link, you will go to the login screen
+After clicking the email verification link, you will go back to the login screen, where you can now login using your email and password.
 
-![[overview_40.png]]
+Logging in will take you to the Studio Dashboard.
 
-and after logging in you will arrive at the Studio Dashboard
-
-![[overview_41.png]]
+![[signup3.jpg]]
 
 [[BioDati Glossary]]
 
