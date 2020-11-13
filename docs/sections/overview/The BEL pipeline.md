@@ -9,13 +9,13 @@ The Edge Report can be accessed by clicking the hover icon that appears above an
 
 Below is an example Edge Report.
 
-![[]]
+![[edges2.jpg]]
 
 Each assertion is canonicalized during processing. BEL requires the use of a namespace and identifier for every object.  This allows us to find object equivalences in multiple namespaces, so we can combine information from divergent sources. 
 
-The BEL pipeline adds **Orthologized Edges**- equivalent edges in different species- usually mouse, rat, or human.  In the example above, this adds two new edges.
+The BEL pipeline adds **Orthologized Edges**- equivalent edges in different species- usually mouse, rat, or human.  In the example above, *this adds two new edges*.
 
-**Computed Edges** are computer generated edges added to aid Network building.  They include hasMember, hasComponent, hasActivity, hasModification, hasFragment, hasLocation, equivalentTo, hasReactant and hasProduct relationships. They are also orthologized, in this case generating three new edges, for a total of six edges in the edge report.  
+**Computed Edges** are computer generated edges added to aid Network building.  They include hasMember, hasComponent, hasActivity, hasModification, hasFragment, hasLocation, equivalentTo, hasReactant and hasProduct relationships. They are also orthologized, in this case, hasActivityedges are added, generating *three new edges*, for a total of six edges from this one assertion.  
 
 **Backbone Edges**, translatedTo and transcribedTo edges, are computer generated edges available in the Edge Store to aid Network building.  They are not associated with specific nanopubs.
 
