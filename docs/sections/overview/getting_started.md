@@ -20,4 +20,4 @@ Logging in will take you to the Studio Dashboard.
 
 [[BioDati Glossary]]
 
-[[Knowledgelanding]]
+[[Knowledge landing page]]
