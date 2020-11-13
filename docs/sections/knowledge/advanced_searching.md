@@ -13,6 +13,7 @@ Go to Nanopub Search by clicking on either button:
 ![[knowledge_49.png]]
 
   ##  Query String Syntax
+  
 [Elasticsearch Query String Syntax documentation](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-query-string-query.html#query-string-syntax)
 
 ###  Note: Boolean AND, OR, and NOT have to be capitalized.
