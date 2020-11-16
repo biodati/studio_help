@@ -1,6 +1,6 @@
 # A Walk Through The Curation Interface- Adding Knowledge
 
-To land on the Curation Interface from the Dash Board, click + on the Knowledge field (1), or from the drop-down "+" menu click Knowledge (2).
+To land on the Curation Interface from the Dash Board, click + on the Knowledge field (1), or from the drop-down "+" menu, click Knowledge (2).
 
 ![[curation1.jpg]]
 
@@ -12,11 +12,12 @@ The Abstract, and Citation Information fields, excluding the Evidence, will auto
 
 ![[curation3.jpg]]
 
-   If you change your mind about which Annotations to select, or want to come back to it later, click the add annotaions icon (1). If you click the goto page icon (2), the PubMed citation page will open in a new window, so you can refer to it while working.
+   If you want to return to the PubMed annotations later, click the add annotaions icon (1). 
+   If you click the goto page icon (2), the PubMed citation page will open in a new window, so you can refer to it while working.
 
 ![[curation4.jpg]]
 
-   Click More to view the Author and Journal Information (also auto-populated).
+   Click "More" at the bottom of the citation information, to view the Author and Journal Information (also auto-populated). Clicking "Less" will hide this information.
 
 ![[curation5.jpg]]
 
@@ -42,15 +43,15 @@ Next, add the evidence on which you will base your assertions.
 
 To add an Annotation, click in the TYPE box, and select the type of Annotation that you would like to ADD from the dropdown menu.
 
-![[curation9]]
+![[curation9.jpg]]
 
-Type within the ID OR Label field and select the appropriate term suggested by the completion engine. The completion Engine will add the label and ID for you. Click "ADD to create your new assertion.
+Type within the ID OR Label field and select the appropriate term suggested by the completion engine. The completion Engine will add the label and ID for you. Click "ADD to create your new annotation.
 
 ![[curation10.jpg]]
 
-If the term you are looking for does not appear, you can add the ID (namespece:number) and Label manually.  If the namespace is not supported by BioDati Studio, you can still use it, but will get a warning for the annotation.  
+If the term you are looking for does not appear, you can add the ID (namespece:number) and Label manually.  If the namespace is not supported by BioDati Studio, you can use it, but will get a warning for the annotation.  
 
-to the right of each line in the annotation field, you will see two icons (1), which will allow you to copy, or (2) delete the Annotation. To Edit an Annotation, just click in the desired field and type. 
+To the right of each line in the annotation field, you will see two icons (1), which will allow you to copy, or (2) delete the Annotation. To Edit an Annotation, just click in the desired field and type. 
 
 ![[curation11.jpg]]
 
@@ -58,10 +59,10 @@ Validation of assertions and annotations occurs in the background after you save
 
 ![[curation12.jpg]]
 
-For more on Validation, see: [[Assertion Validation]].  If you need to edit an assertion or validation, simply click on the field in the assertion (or annotation) that needs to be edited, and type.  The completion engine will help.  See also: [[Editing Assertions]].
+For more on Validation, see: [[Assertion Validation]].  If you need to edit an assertion or annotation, simply click on the field in the assertion (or annotation) that needs to be edited, and type.  The completion engine will help.  See also: [[Editing Assertions]].
 
-In you wish to add your new nanopub to a collection, you will need to edit the Metadata.
-Click on the collections box (1). Click Edit(2). Type in the collection name in the value field (3). The nanopub can be added to multiple collections by selecting "list of strings" and entering multiple names, separated by commas. Click Create/Update (4).  for more details, see: [[Collections-Adding and editing Metadata]]
+If you wish to add your new nanopub to a collection, you will need to edit the Metadata.
+Click on the collections box (1). Click Edit(2). Type in the collection name in the value field (3). Collections are always a "list of strings", even if the nanopub is only added to a single collection. The nanopub can be added to multiple collections by entering multiple names, separated by commas. Click Create/Update (4).  for more details, see: [[Collections-Adding and editing Metadata]]
 
 ![[knowledge_27.png]]
 
@@ -73,7 +74,7 @@ Finally you can go back to the top of your completed nanopub and use the drop do
 
 There are a few more features available to you on the Knowledge Creation page.
 
-   #1  Toggle which shrinks and expands the citation information
+   #1  Toggle which shrinks and expands the citation information.
    
    #2  Save the nanopub.
    
@@ -85,7 +86,7 @@ There are a few more features available to you on the Knowledge Creation page.
    
    #6  Toggle which shrinks and expands the column containing Comments and Abstract. This creates a wider assertions field.
    
-   #7  "More" icon which allows you to Export or Delete your nanopub.  Please see:[[Exporting Nanopubs]]
+   #7  "More" icon which allows you to Export or Delete your nanopub.  Please see: [[Exporting Nanopubs]]
    
    ![[curation13.jpg]]
 
