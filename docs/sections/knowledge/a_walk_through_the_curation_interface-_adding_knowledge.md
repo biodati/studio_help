@@ -88,7 +88,11 @@ There are a few more features available to you on the Knowledge Creation page.
    
    #7  "More" icon which allows you to Export or Delete your nanopub.  Please see: [[Exporting Nanopubs]]
    
-   ![[curation13.jpg]]
+   #8  The "BULK IMPORT" tab, which allows you to upload thousands of assertion at once. Please see: [[Bulk Assertion Uploads]]
+   
+   #9  The "EXPORT AS TSV" tab, which allows you to export the assertions in your nanopub in TSV format.
+   
+   ![[curation14.jpg]]
 
 
 
