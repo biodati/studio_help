@@ -1,4 +1,4 @@
-# Using the Fix status-A walk through of the new Fix status with Internal Comments
+# Using the Fix status with Internal Comments
 
 
 ![[fix1.jpg]]
