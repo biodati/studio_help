@@ -25,6 +25,6 @@ To enter an Assertion;
 
 *  When the assertion is complete, click the ADD button.
 
-[http://help.biodati.com/en/articles/3960286-assertion-validation](https://help.biodati.com/en/articles/3960286-assertion-validation)
+[[Assertion Validation]]
 
-[http://help.biodati.com/en/articles/3960509-editing-assertions](https://help.biodati.com/en/articles/3960509-editing-assertions)
+[[Editing Assertions]]
