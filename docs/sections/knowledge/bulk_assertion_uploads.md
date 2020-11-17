@@ -8,7 +8,7 @@ Copy the list of assertions in these three columns to your clipboard. Then click
 
 ![[knowledge_15.png]]
 
-![[knowledge_16.png]]
+![[bulk1.jpg]]
 
    The first time, be sure to look for the browser popup and  **Allow**  Biodati to see your clipboard.
 
@@ -18,6 +18,6 @@ Copy the list of assertions in these three columns to your clipboard. Then click
    
    Validation is run in the background after you save your assertions.
    
-*Warning — the validation for each assertion currently takes less than a second, but very large Bulk loads can take a while for validation to complete.
+*Warning — the validation for each assertion currently takes a fraction of a second, but very large Bulk loads can take a while for validation to complete.
 
 If validation is not complete after the initial save, You can continue to work on that nanopub, or another, then resave or reload to see the updated validation.
