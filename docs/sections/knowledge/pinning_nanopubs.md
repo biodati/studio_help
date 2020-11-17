@@ -10,7 +10,7 @@ You will know that the nanopub is pinned when the yellow thumbtack is visible.
 
 You can also pin a nanopub from the Nanopub Review page.
 
-See [[reviewing a nanopub]] for a description of the Nanopub Review page.
+See [[Reviewing a Nanopub]] for a description of the Nanopub Review page.
 
 If you want to review the nanopubs that you've pinned, all you have to do is click the box at the top of the Search Facets column that says "Pinned."
 
