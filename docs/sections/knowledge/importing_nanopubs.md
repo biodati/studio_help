@@ -5,6 +5,7 @@ As long as you have a NanoPub saved onto your computer in a .json format, you ca
 1.  Click the import symbol in the banner, and select Knowledhe from the dropdown.
 
 **OR**
+
 2.  Click the import symbol on the dashboard in the Knowledge field.
 
 ![[knowledge_72.png]]
@@ -13,9 +14,9 @@ As long as you have a NanoPub saved onto your computer in a .json format, you ca
 
 Once you've made it to the import page you will:
 
-1.  Choose a file from your computer to import
+1.  Choose a file from your computer to import.
 
-2.  A pop up will appear at the bottom to indicate that you've chosen a proper .json file
+2.  A pop up will appear at the bottom to indicate that you've chosen a proper .json file.
 
 3.  Click Import.
 
