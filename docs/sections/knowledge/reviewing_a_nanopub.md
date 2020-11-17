@@ -13,5 +13,5 @@ You can update the status of a nanopub by using the status drop down menu.  See 
 
 ![[review3.jpg]]
 
-If you see something wrong with a nanopub you can edit the nanopub yourself, by clicking EDIT, which will take you to the nanopub Edit page, or you can change its' status to FIX using the dropdown menu, here or on the nanopub Edit page.  Whenever you change a nanopub to FIX status, it is best practice to leave an Internal Comment describing the problem for the team member who will be fixing the nanopub.  Please see [[The_new_fix_status_with_internal_comments]].
+If you see something wrong with a nanopub you can edit the nanopub yourself, by clicking EDIT, which will take you to the nanopub Edit page, or you can change its' status to FIX using the dropdown menu, here or on the nanopub Edit page.  Whenever you change a nanopub to FIX status, it is best practice to leave an Internal Comment describing the problem for the team member who will be fixing the nanopub.  Please see [[The new fix status with internal comments]].
 
