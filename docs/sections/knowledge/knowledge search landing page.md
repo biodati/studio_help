@@ -28,5 +28,5 @@ Click on a nanopub.  The Nanopub Review will open.
 
 ![[knowledge3.jpg]]
 
-
+[[Reviewing a NanoPub]]
 
