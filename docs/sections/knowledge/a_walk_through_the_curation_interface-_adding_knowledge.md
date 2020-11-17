@@ -21,7 +21,7 @@ The Abstract, and Citation Information fields, excluding the Evidence, will auto
 
 ![[curation5.jpg]]
 
-   If your Citation does not have a PubMed ID, it's not a problem. Click the arrow to the right of Citation Type,(1), to open the drop-down menu and select the tab which is appropriate for your citation. Then just type in the citation information. With inline editing it is easy to click on a field and edit the information!
+   If your Citation does not have a PubMed ID, it's not a problem. Click the arrow to the right of CITATION TYPE, to open the drop-down menu and select the tab which is appropriate for your citation. Then just type in the citation information. With inline editing it is easy to click on a field and edit the information!
    
 Now, check the species box (1). The form defaults to human. To change species, type the new species into the species box, and select the correct choice from the dropdown selections. It is important to set the species before you add assertions, because the completion engine will suggest standardized identifiers that are species specific as you add your assertions. 
 
