@@ -16,4 +16,4 @@ We use  [Visual Studio Code](https://code.visualstudio.com/)  here, and we love 
 
 ![[knowledge_77.png]]
 
-[Importing Nanopubs](https://help.biodati.com/nanopubs/importing-nanopubs)
+[[Importing Nanopubs]]
