@@ -40,7 +40,7 @@ HGNC <https://www.genenames.org/tools/search/#!/genes?query=>
 
 DO <https://disease-ontology.org/>
 
-TAX <https:/www.ncbi.nlm.nih.gov/taxonomy>
+TAX <https://www.ncbi.nlm.nih.gov/taxonomy>
 
 UBERON <https://www.ebi.ac.uk/ols/ontologies/uberon>
 
