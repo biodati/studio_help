@@ -3,7 +3,7 @@
 
 ![[fix1.jpg]]
 
-   Select the desired nanopub status from the dropdown menu. In this example, select Fix, to indicate that the nanopub needs work before it can be Approved or Finalized.
+   From the Review page, click EDIT.  ON the EDIT page, select the desired nanopub status from the dropdown menu. In this example, select Fix, to indicate that the nanopub needs work before it can be Approved or Finalized.
 
 ![[fix2.jpg]]
 
