@@ -1,4 +1,4 @@
-# Reviewing a NanoPub
+# Reviewing a Nanopub
 
 Click on a Nanopub on the Knowledge Search page to open the Review window. Once that is done you will have a screen like so, where you will be able to edit (1), copy (2), export (3), delete (4), and pin (5) the nanopub.
 
