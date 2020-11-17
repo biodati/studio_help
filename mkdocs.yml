@@ -12,6 +12,7 @@ nav:
       - Facets: sections/overview/facets.md
       - How to get help: sections/overview/how_to_get_help.md
       - Reset your password: sections/overview/reset_your_password.md
+      - BEL Namespaces: sections/knowledge/bel_namespaces.md
     - Knowledge:
       - Introduction to the Knowledge Search Landing Page: sections/knowledge/knowledge search landing page.md
       - Searching Knowledge Overview: sections/knowledge/searching_knowledge_overview.md
@@ -31,7 +32,6 @@ nav:
       - Editing Assertions: sections/knowledge/editing_assertions.md
       - Adding/Editing Annotations: sections/knowledge/adding_editing_annotations.md
       - Collections-Adding and editing Metadata: sections/knowledge/collections-adding_and_editing_metadata.md
-      - BEL Namespaces: sections/knowledge/bel_namespaces.md
       - Bulk Assertion Uploads: sections/knowledge/bulk_assertion_uploads.md
       - Copying a Nanopub: sections/knowledge/copying_a_nanopub.md
       - Importing Nanopubs: sections/knowledge/importing_nanopubs.md
