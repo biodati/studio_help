@@ -1,4 +1,4 @@
-# Copying a NanoPub
+# Copying a Nanopub
 
 The Copy Nanopub option appears in several locations. 
 
@@ -16,7 +16,7 @@ It is also near the top of both the Nanopub Creation and Nanopub Edit pages.
 
 Just click copy, and a popup window should open.
 
-Click the box next to each part of the NanoPub you want copied.
+Click the box next to each part of the Nanopub you want copied.
 
 ![[copy4.jpg]]
 
