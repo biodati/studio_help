@@ -12,3 +12,5 @@ For more help, please see:
 [[How to use Completion when Editing or Creating an Assertion]]
 
 [[Editing Assertions]]
+
+**Don't forget to SAVE your changes.**
