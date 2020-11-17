@@ -29,9 +29,9 @@ Now, check the species box (1). The form defaults to human. To change species, t
 
 Next, add the evidence on which you will base your assertions.
  
- To add your first Assertion. Click on the subject line and start to type. The completion engine will suggest appropriate BEL functions for you to select.
+ To add your first Assertion. Click in the subject box. The completion engine will suggest BEL functions for you to select.
 
-![[curation7.jpg]]
+![[assertions1.jpg]]
 
    As you type inside a parenthesis, the completion engine will suggest standardized BEL terms for you to select and display function rules (2).
 
