@@ -11,7 +11,7 @@ When the nanopub is created, or saved for the first time, the default  ***collec
 *  Type in the collection name in the value field (3).
 
 *  Click CREATE/UPDATE (4).
-[
+
 ![[knowledge_8.png]]
 
 **The nanopub can be added to multiple collections by entering multiple names, separated by commas.**
