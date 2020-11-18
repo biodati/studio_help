@@ -21,7 +21,7 @@ You can also sort the list alphabetically (and in reverse). Simply click to the 
 
 ![[edgefilter4.jpg]]
 
-You can search for a node through the Visualization tab. It's as easy as typing in the right next to the magnification glass. THe completion engine will help by suggesting nodes that are in the network.  Select a node, and it will be highlighted.
+You can search for a node through the Visualization tab. It's as easy as typing next to the magnification glass. The completion engine will help by suggesting nodes that are in the network.  Select a node, and it will be highlighted.
 
 ![[edgefilter5.jpg]]
 
