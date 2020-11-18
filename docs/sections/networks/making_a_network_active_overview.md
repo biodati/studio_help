@@ -2,7 +2,7 @@
 
 ## How to make a network active and tidbits on tabular as well as visualization.
 
-If you need more information on the network before deciding to make it active, hover your cursor over te network until the hover icons appear. then, click the microscope. It will give you a preview of the network. If it's the one you hoped for, then click it's name.
+If you need more information on the network before deciding to make it active, hover your cursor over the network until the hover icons appear. Then, click the microscope. It will give you a preview of the network. If it's the one you hoped for, then click it's name.
 
 ![[active1.jpg]]
 
@@ -18,7 +18,7 @@ From here you have a few different ways to view the nodes and edges. One way is 
 
 You can do the same with the edges, all you have to do is click "Edges."
 
-![[active4,jpg]]
+![[active4.jpg]]
 
 Another feature you can get to through activating a network is visualizing it.
 
