@@ -23,7 +23,7 @@ Click the Search icon under Networks on the dashboard, OR use the Search dropdow
 
 7) The Copy Network icon.  See [[Copying a Network]]
 
-8) The Edit icon. Clicking this icon will activate the network and take you to the Network Landing page, from which you can edit the Network. See [[Making a Network Active Overview]]
+8) The Edit icon. Clicking this icon will activate the network and take you to the Network Landing page, from which you can edit the network. See [[Making a Network Active Overview]]
 
 9) The delete icon. Click here to logically delete the network.
 
