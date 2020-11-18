@@ -32,11 +32,11 @@ When you visualize a network, you'll notice that it opens in a new tab, so you c
 For example, if I only want to view a specific node and 2 steps following that node in any direction. I would simply select those options.
 Not only will those options be selected in the tabular chart like so:
 
-![[networks_26.png]]
+![[active7.jpg]]
 
 They will also be selected in the visual! Any nodes or edges you select (or deselect) in the tabular view or the graphical view will be selected in the other view.
 
-![[networks_27.png]]
+![[active8.jpg]]
 
 
-[Pinning Networks](https://help.biodati.com/en/articles/2195343-pinning-networks)
+[[Searching for a Node in a Network]]
