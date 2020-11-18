@@ -37,14 +37,14 @@ nav:
       - Importing Nanopubs: sections/knowledge/importing_nanopubs.md
       - Exporting Nanopubs: sections/knowledge/exporting_nanopubs.md
     - Networks:
+      - Searching Networks: sections/networks/searching_networks.md
+      - Pinning Networks: sections/networks/pinning_networks.md      
+      - Making a Network Active Overview: sections/networks/making_a_network_active_overview.md
       - Creating Networks and Adding Edges: sections/networks/creating_networks_and_adding_edges.md
       - Hiding Nodes and Edges in Visualization: sections/networks/hiding_nodes_and_edges_in_visualization.md
       - Source Code Editors: sections/networks/source_code_editors.md
       - Importing Networks: sections/networks/importing_networks.md
       - Exporting Networks: sections/networks/exporting_networks.md
-      - Searching Networks: sections/networks/searching_networks.md
-      - Making a Network Active Overview: sections/networks/making_a_network_active_overview.md
-      - Pinning Networks: sections/networks/pinning_networks.md
       - Changing Display in Visualization: sections/networks/changing_display_in_visualization.md
       - Searching for a Node in a Network: sections/networks/searching_for_a_node_in_a_network.md
       - Toggle Pathing in Visualization: sections/networks/toggle_pathing_in_visualization.md
