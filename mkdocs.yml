@@ -43,7 +43,7 @@ nav:
       - Changing Display in Visualization: sections/networks/changing_display_in_visualization.md
       - How to Reset a Selection Using the Tabular View: sections/networks/how_to_reset_a_selection_using_the_tabular_view.md
       - Searching for a Node in a Network: sections/networks/searching_for_a_node_in_a_network.md
-      - Lassoing Nodes and Labels: sections/networks/lassoing_nodes_and_labels.md
+      - Lassoing Nodes and Edges: sections/networks/lassoing_nodes_and_edges.md
       - Hiding Nodes and Edges in Visualization: sections/networks/hiding_nodes_and_edges_in_visualization.md
       - Deleting and Adding Edges in Visualizer: sections/networks/deleting_and_adding_edges_in_visualizer.md
       - Creating a Subset Network within Tabular View: sections/networks/creating_a_subset_network_within_tabular_view.md
