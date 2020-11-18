@@ -40,24 +40,24 @@ nav:
       - Searching Networks: sections/networks/searching_networks.md
       - Pinning Networks: sections/networks/pinning_networks.md      
       - Making a Network Active Overview: sections/networks/making_a_network_active_overview.md
-      - Creating Networks and Adding Edges: sections/networks/creating_networks_and_adding_edges.md
+      - Changing Display in Visualization: sections/networks/changing_display_in_visualization.md
+      - How to Reset a Selection Using the Tabular View: sections/networks/how_to_reset_a_selection_using_the_tabular_view.md
+      - Searching for a Node in a Network: sections/networks/searching_for_a_node_in_a_network.md
+      - Lassoing Nodes and Labels: sections/networks/lassoing_nodes_and_labels.md
       - Hiding Nodes and Edges in Visualization: sections/networks/hiding_nodes_and_edges_in_visualization.md
+      - Deleting and Adding Edges in Visualizer: sections/networks/deleting_and_adding_edges_in_visualizer.md
+      - Creating a Subset Network within Tabular View: sections/networks/creating_a_subset_network_within_tabular_view.md
+      - Creating Networks and Adding Edges: sections/networks/creating_networks_and_adding_edges.md
       - Source Code Editors: sections/networks/source_code_editors.md
       - Importing Networks: sections/networks/importing_networks.md
       - Exporting Networks: sections/networks/exporting_networks.md
-      - Changing Display in Visualization: sections/networks/changing_display_in_visualization.md
-      - Searching for a Node in a Network: sections/networks/searching_for_a_node_in_a_network.md
       - Toggle Pathing in Visualization: sections/networks/toggle_pathing_in_visualization.md
-      - Lassoing Nodes and Labels: sections/networks/lassoing_nodes_and_labels.md
-      - Deleting and Adding Edges in Visualizer: sections/networks/deleting_and_adding_edges_in_visualizer.md
       - Creating a Network: sections/networks/creating_a_network.md
+      - Extending a Network: sections/networks/extending_a_network.md
       - Searching for Network Edges: sections/networks/searching_for_network_edges.md
       - Creating an Orthologized Network: sections/networks/creating_an_orthologized_network.md
       - Computed Edge Workflow: sections/networks/computed_edge_workflow.md
-      - Extending a Network: sections/networks/extending_a_network.md
       - How to Add And Use Nodes in Your Clipboard: sections/networks/how_to_add_and_use_nodes_in_your_clipboard.md
-      - Creating a Subset Network within Tabular View: sections/networks/creating_a_subset_network_within_tabular_view.md
-      - How to Reset a Selection Using the Tabular View: sections/networks/how_to_reset_a_selection_using_the_tabular_view.md
       - Combining Networks: sections/networks/Combining_Networks.md
     - Projects:
       - Adding and Removing Nanopubs from an Active Project.: sections/projects/adding_and_removing_nanopubs_from_an_active_project..md
