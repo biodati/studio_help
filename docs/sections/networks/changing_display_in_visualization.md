@@ -20,8 +20,8 @@ To zoom in on a network, double click on an area without nodes or edges.  If you
 
 [[Lassoing Nodes and Edges]]
 
-[[Searching for a Node in Visualization]]
+[[Searching for a Node in a Network]]
 
-[[Toggle Pathing]]
+[[Toggle Pathing in visualizaion]]
 
 [[Hiding Nodes and Edges in Visualization]]
