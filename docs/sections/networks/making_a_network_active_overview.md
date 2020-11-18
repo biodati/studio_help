@@ -1,34 +1,32 @@
-# Making a Network Active OverviewHow to make a network active and tidbits on tabular as well as visualization.
+# Making a Network Active Overview
 
 ## How to make a network active and tidbits on tabular as well as visualization.
 
-If you need more information on the network before deciding to make it active, click the microscope. It will give you a preview of the network, if it's the one you hoped for then hover your mouse over the header until it turns a light green and click it.
+If you need more information on the network before deciding to make it active, hover your cursor over te network until the hover icons appear. then, click the microscope. It will give you a preview of the network. If it's the one you hoped for, then click it's name.
 
-![[networks_19.png]]
+![[active1.jpg]]
 
-If you know which one you want and don't need the preview, then all you have to do is click on the network's space and it will automatically become active.
+If you know which one you want and don't need the preview, then all you have to do is click on the network's name and it will automatically become active.
 
-![[networks_20.png]]
+Both methods will lead you to the Network page:
 
-Both methods will lead you to the same screen:
-
-![[networks_21.png]]
+![[active2.jpg]]
 
 From here you have a few different ways to view the nodes and edges. One way is to view the nodes in tabular form. All you have to do is click "Nodes" in the "NETWORK" column.
 
-![[networks_22.png]]
+![[active3.jpg]]
 
 You can do the same with the edges, all you have to do is click "Edges."
 
-![[networks_23.png]]
+![[active4,jpg]]
 
 Another feature you can get to through activating a network is visualizing it.
 
-![[networks_24.png]]
+![[active5.jpg]]
 
-Clicking that button will lead you to the visualizer:
+Clicking the visualize icon, OR clicking visualize in the NETWORK column will lead you to the visualizer:
 
-![[networks_25.png]]
+![[active6.jpg]]
 
 When you visualize a network, you'll notice that it opens in a new tab, so you can use the tabular view of the nodes and edges to manipulate the visualization to get exactly what you are looking for.
 For example, if I only want to view a specific node and 2 steps following that node in any direction. I would simply select those options.
