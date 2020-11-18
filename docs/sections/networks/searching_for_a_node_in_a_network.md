@@ -27,7 +27,7 @@ You can search for a node through the Visualization tab. It's as easy as typing 
 
     
     
-[[Lassoing Nodes in a Network]]
+[[Lassoing Nodes and Edges]]
     
 [[Changing Display in Visualization]]
 
