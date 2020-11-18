@@ -18,10 +18,10 @@ Ahh, much better. Now I can see exactly which ones I'd like to lasso. All that n
 As you can see, all the other nodes and edges that are not selected are immediately grayed out. Anything you lasso in the visualization will be selected in the tabular chart as well!
 
 
-[Hiding Nodes and Edges in Visualization](https://help.biodati.com/networks/visualization/hiding-nodes-and-edges-in-visualization)
+[[Hiding Nodes and Edges in Visualization]]
 
-[Changing Display in Visualization](https://help.biodati.com/networks/visualization/changing-display-in-visualization)
+[[Changing Display in Visualization]]
 
-[Toggle Pathing in Visualization](https://help.biodati.com/networks/visualization/toggle-pathing-in-visualization)
+[[Toggle Pathing in Visualization]]
 
-[Searching for a Node in a Network](https://help.biodati.com/networks/visualization/searching-for-a-node-in-a-network)
+[[Searching for a Node in a Network]]
