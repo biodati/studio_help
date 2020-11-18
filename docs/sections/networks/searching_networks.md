@@ -15,7 +15,7 @@ Click the Search icon under Networks on the dashboard, OR use the Search dropdow
 
 3) If you hover your cursor over a network, it will be highlighted, and more icons will appear (4-10).
 
-4) The preview icon displays basic information about the network before you activating it.
+4) The preview icon displays basic information about the network before you activate it.
 
 5) The export icon allows you to export the network.  See [[Exporting Networks]]
 
