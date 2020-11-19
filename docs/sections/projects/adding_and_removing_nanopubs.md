@@ -1,4 +1,4 @@
-# Adding and Removing Nanopubs from an Active Project.
+# Adding and Removing Nanopubs
 
 You can add nanopubs to your active project from Knowledge Search. Earmarks indicate which nanopubs are already in your project. You can add a whole page of nanopubs,(up to 50), to your project at once. by clicking the Add X To Project tab at the top of the page.
 
