@@ -1,6 +1,6 @@
 # Combining Networks - Union and Intersection
 
-From the Project landing page you can add together or find the intersection,(overlap) of Networks in your project.  
+From the Project landing page you can add together or find the intersection, (overlap), of Networks in your project.  
 
 Just click the check boxes to the left of the Networks that you wish to combine.
 
@@ -14,6 +14,6 @@ Your new Network will appear at the bottom of your Network list.
 
 ![[union3.jpg]]
 
-You can edit the Network name and description as desired, by clicking “Edit Network Information” on the Network landing page.
+Once you activate your new network, you can edit the Network name and description as desired, by clicking “Edit Network Information” on the Network landing page.
 
 
