@@ -20,4 +20,4 @@ The Project page displays the current list of networks in your project. Links fr
 
 ![[projects_8.png]]
 
-   See also: [[Adding and Removing Nanopubs from an Active Project Project]]
+   See also: [[Adding and Removing Nanopubs]]
