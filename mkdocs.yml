@@ -58,12 +58,11 @@ nav:
       - Source Code Editors: sections/networks/source_code_editors.md
       - Combining Networks: sections/networks/Combining_Networks.md
     - Projects:
+      - Projects: sections/projects/projects.md
+      - Creating a Project: sections/projects/creating_a_project.md
+      - Activating a Project: sections/projects/activating_a_project.md
       - Adding and Removing Nanopubs from an Active Project.: sections/projects/adding_and_removing_nanopubs_from_an_active_project..md
       - Adding and Removing Networks from a Project: sections/projects/adding_and_removing_networks_from_a_project.md
-      - Creating a Project: sections/projects/creating_a_project.md
-      - Projects: sections/projects/projects.md
-      - Adding Networks and Nanopubs to a Project: sections/projects/adding_networks_and_nanopubs_to_a_project.md
-      - Activating a Project: sections/projects/activating_a_project.md
   - Developer Notes:
     - Browser Hard Refresh: sections/dev/browser_hard_refresh.md
     - API Documentation: sections/dev/api_documentation.md
