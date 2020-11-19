@@ -30,7 +30,7 @@ Hover over the project line to reveal Hover Icons. These icons will allow you to
 
 ![[projects_16.png]]
 
-See:
+See
 
 [[Adding and Removing Nanopubs from an Active Project]]
 
