@@ -30,10 +30,8 @@ Hover over the project line to reveal Hover Icons. These icons will allow you to
 
 ![[projects_16.png]]
 
-See Adding and Removing Nanopubs from an Active Project.
+See:
 
-[Adding and Removing Nanopubs from an Active Project](https://help.biodati.com/en/articles/4173438-adding-and-removing-nanopubs-from-an-active-project)
+[[Adding and Removing Nanopubs from an Active Project]]
 
-See Adding And Removing Networks from a Project.
-
-[Adding and Removing Networks from a Project](https://help.biodati.com/en/articles/4173438-adding-and-removing-nanopubs-from-an-active-project)
+[[Adding and Removing Networks from a Project]]
