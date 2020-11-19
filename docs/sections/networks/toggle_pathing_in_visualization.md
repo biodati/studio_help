@@ -16,7 +16,7 @@ As you can see, after they've been inserted and you click "Find," you'll get a c
 
 [[Lassoing Nodes and Edges]]
 
-[[Hiding Nodes and Edges]]
+[[Hiding Nodes and Edges in Visualization]]
 
 [[Searching for a Node in a Network]]
 
