@@ -14,10 +14,10 @@ You'll need to insert the node you would like to start from in the box under the
 
 As you can see, after they've been inserted and you click "Find," you'll get a clear view of the path that connects those nodes!
 
-[Lassoing Nodes and Edges](https://help.biodati.com/networks/visualization/lassoing-nodes-and-labels)
+[[Lassoing Nodes and Edges]]
 
-[Hiding Nodes and Edges](https://help.biodati.com/networks/visualization/hiding-nodes-and-edges-in-visualization)
+[[Hiding Nodes and Edges]]
 
-[Searching for a Node in a Network](https://help.biodati.com/networks/visualization/searching-for-a-node-in-a-network)
+[[Searching for a Node in a Network]]
 
-[Changing Display in Visualization](https://help.biodati.com/networks/visualization/changing-display-in-visualization)
+[[Changing Display in Visualization]]
