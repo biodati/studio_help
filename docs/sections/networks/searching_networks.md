@@ -1,19 +1,32 @@
-# Searching Networks
+# Searching Networks-Introduction to the Network Search Page
 
 
 ![[networks_15.png]]
 
-You'll find yourself on our Networks page, where you can search for exactly which Network you need.
+Click the Search icon under Networks on the dashboard, OR use the Search dropdown from the Banner and select Networks. You'll find yourself on our Network Search page, where you can search for exactly which network you need.  
 
-![[networks_16.png]]
+![[networklanding.jpg]]
 
-   Type in the kind of networks you'd like to view. This may also include searching for the creator of the network by simply typing in "Creator:" followed by who created it.
-You can narrow your search down through the Facets section on the left. In this case, I want to narrow down my Networks to the ones that have a Node count of less than 50.
+1) To search for a network, type a keyword into the Search Field and hit return. The computer will search the network name, description and metadata for your keyword, then display an updated network list. You can narrow your search through the FACETS section on the left. See [[Facets]] for more details.
 
-![[networks_17.png]]
+## The Network Search page isn't just for finding networks- it has a lot of other great features too.
 
-   Now that it's been narrowed down, I can successfully find the right Network!
+2) The network that is currently active will be highlighted by a dark line.  It's name will also appear in the Banner. See [[Banner Functions]]
 
-![[networks_18.png]]
+3) If you hover your cursor over a network, it will be highlighted, and more icons will appear (4-10).
 
-[Making A Network Active](https://help.biodati.com/networks/helpful-basics/making-a-network-active-overview)     [Pinning Networks](https://help.biodati.com/networks/pinning-networks)     [Exporting Networks](https://help.biodati.com/en/articles/2869388-exporting-networks)
+4) The preview icon displays basic information about the network before you activate it.
+
+5) The export icon allows you to export the network.  See [[Exporting Networks]]
+
+6) The icon to remove OR add a network to an Active Project.  See [[Adding and Removing Networks from a Project]]
+
+7) The Copy Network icon.  See [[Copying a Network]]
+
+8) The Edit icon. Clicking this icon will activate the network and take you to the Network Landing page, from which you can edit the network. See [[Making a Network Active Overview]]
+
+9) The delete icon. Click here to logically delete the network.
+
+10) The pin icon. Click to pin the network and make it easier to find in the future.  Networks that have been pinned display a yellow pin in the network list (11), and can be found by clicking the "Pinned" Facet box. 
+See [[Pinning Networks]]
+

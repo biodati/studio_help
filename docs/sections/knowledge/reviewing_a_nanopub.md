@@ -1,26 +1,17 @@
-# Reviewing a NanoPub
+# Reviewing a Nanopub
 
-[Reviewing a Pinned Nanopub](http://#)
+Click on a Nanopub on the Knowledge Search page to open the Review window. Once that is done you will have a screen like so, where you will be able to edit (1), copy (2), export (3), delete (4), and pin (5) the nanopub.
 
-![[knowledge_62.png]]
+![[review1.jpg]]
 
-   Once that is done you will have a screen like so, where you will be able to edit, copy, export, delete, or pin the nanopub:
+Open the abstract field by clicking "Abstract".  
 
-![[knowledge_63.png]]
+![[review2.jpg]]
 
-   If you see something wrong with a NanoPub not only can you edit the NanoPub yourself, but you can also add it to a Workflow in the facets. Click "Edit."
+You can update the status of a nanopub by using the status drop down menu.  See [[nanopub statuses and what they mean]] for an explanation of the different nanopub statuses.  
+**NOTE: Nanopubs that have been Finalized cannot be edited.**
 
-![[knowledge_64.png]]
+![[review3.jpg]]
 
-![[knowledge_65.png]]
+If you see something wrong with a nanopub you can edit the nanopub yourself, by clicking EDIT, which will take you to the nanopub Edit page, or you can change its' status to FIX using the dropdown menu, here or on the nanopub Edit page.  Whenever you change a nanopub to FIX status, it is best practice to leave an Internal Comment describing the problem for the team member who will be fixing the nanopub.  Please see [[The new Fix Status with Internal Comments]].
 
-![[knowledge_66.png]]
-
-![[knowledge_67.png]]
-
-![[knowledge_68.png]]
-
-![[knowledge_69.png]]
-
-    [Reviewing a Pinned Nanopub](https://help.biodati.com/en/articles/2159800-reviewing-pinned-nanopubs)
-[Nanopub Statuses and What They Mean](https://help.biodati.com/en/articles/2715370-nanopub-statuses-and-what-they-mean)

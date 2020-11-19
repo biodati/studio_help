@@ -10,4 +10,4 @@ Our fix status is a new feature we made for nanopubs. This makes it possible to 
 
 ![[knowledge_34.png]]
 
-    ***NOTE: If you change the status from fix to finalized, the internal comments will be removed. The internal comments will also be removed when exporting the nanopubs.***
+***NOTE: If you change the status from fix to approved or finalized, the internal comments will be removed. The internal comments will also be removed when exporting the nanopubs.***

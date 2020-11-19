@@ -14,7 +14,8 @@ Make sure your network is visualized.
 
 ![[networks_47.png]]
 
-  ##  To Add:
+##  To Add:
+
 Now that you know how to delete an edge, I'll show you how to add an edge onto your existing network.
 Again, make sure your network is active and visualized, then go to the top and find "Add Edge."
 
@@ -27,4 +28,7 @@ Again, make sure your network is active and visualized, then go to the top and f
    Once you've completed that, you'll see the extra edge pop up in your visualization.
 
 ![[networks_50.png]]
+
+**Note:** 
+Edges added under visualizer will be added to your Network but not to the Edge Store, since they have no nanopub associated with them.
 

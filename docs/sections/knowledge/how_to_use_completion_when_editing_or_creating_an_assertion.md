@@ -1,18 +1,27 @@
 # How to use Completion when Editing or Creating an Assertion
 
-When filling out the assertions to create or edit a NanoPub, we've tried to make it as easy as possible for you by using the completion method. When you tab to a box, drop down will appear with the different options you might be looking for.
+When filling out the assertions to create or edit a NanoPub, we've tried to make it as easy as possible for you by using the completion method. When click in a box, a drop down will appear with the different options you might be looking for.
 
-![[knowledge_55.png]]
+![[assertions1.jpg]]
 
-   Once you have selected a subject, relation, or object, it will even show you a helpful description of what everything means on the side.
+As you work, a description of the chosen BEL function will be displayed to the right.  The completion engine will try to match what you type within the parenthesis to a namespace:value that is appropriate for the species listed at the top of the page.  (In this case, mouse).
 
-![[knowledge_56.png]]
+![[Completion2.jpg]]
 
-![[knowledge_57.png]]
+Use the drop down menu to chose a relation between the subject and object for your assertion.
 
-As soon as you are done and click "+" it will immediately show up in the box below that shows all of the assertions.
+![[completion3.jpg]]
 
-![[knowledge_58.png]]
+The completion engine will help you with the object of your assertion.  When you have finished your assertion, Click ADD at the right.
+As soon as you click "ADD" the assertion will immediately show up in the box below that lists all of the assertions.
 
-   After it's been created, it will automatically be saved.
-[Editing a Nanopub](https://help.biodati.com/en/articles/2159178-editing-a-nanopub)
+![[completion4.jpg]]
+
+**NOTE:
+It is not necessary to use the completion engine. You can type or paste your assertions in while ignoring the suggestions.**
+
+After it's been created, saving your nanopub will run validation, so the computer can help you check for any problems with your assertion(s).
+
+[[Assertion Validation]]
+
+[[Editing a Nanopub]]
