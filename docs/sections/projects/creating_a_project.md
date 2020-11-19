@@ -9,4 +9,4 @@ Once you're signed in to your BioDati account, you'll be on the dashboard. In th
 
 ![[projects_10.png]]
 
-    [[Adding a NanoPub to a Project]]
+    [[Adding and Removing Nanopubs from an Active Project]]
