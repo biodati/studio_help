@@ -82,3 +82,5 @@ The shortest path search is designed to allow you to find the shortest path (and
 Click create Network and follow the prompts to create your first Network.  
 
 **If an existing Network is active, you can add new edges to that Network by following the steps above, and clicking add to Network, instead of Create, after your edges have been selected.**
+
+[[Searching for Network Edges]]
