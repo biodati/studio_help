@@ -1,8 +1,8 @@
 # Combining Networks - Union and Intersection
 
-From the Project landing page you can add together or find the intersection, (overlap), of Networks in your project.  
+From the Project landing page you can add together or find the intersection, (overlap), of networks in your project.  
 
-Just click the check boxes to the left of the Networks that you wish to combine.
+Just click the check boxes to the left of the networks that you wish to combine, then click the Union & Intersection icon. 
 
 ![[union1.jpg]]
 
