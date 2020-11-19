@@ -78,4 +78,4 @@ One of the search facets that can be used to filter the edges in your search is 
 
 *   **causal**  - edge much be a causal edge - e.g. BEL causal relationships such as increases, decreases, etc
 
-[[The BEL pipeline- The Edge Report and Edge Types]]
+[[The BEL pipeline]]
