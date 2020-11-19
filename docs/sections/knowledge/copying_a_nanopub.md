@@ -1,14 +1,24 @@
-# Copying a NanoPub
+# Copying a Nanopub
 
-When you have a NanoPub selected, you should see a row of options above it. Once you see the copy option, click it.
+The Copy Nanopub option appears in several locations. 
 
-![[knowledge_59.png]]
+It appears when your cursor hovers over a nanopub on the Knowledge Search page.
 
-   After that's accomplished, you should see a pop-up.
+![[copy1.jpg]]
 
-![[knowledge_60.png]]
+It is at the top of the Nanopub Review page.
 
-   Be sure to click which parts of the NanoPub you want copied.
+![[copy2.jpg]]
 
-![[knowledge_61.png]]
+It is also near the top of both the Nanopub Creation and Nanopub Edit pages.
+
+![[copy3.jpg]]
+
+Just click copy, and a popup window should open.
+
+Click the box next to each part of the Nanopub you want copied.
+
+![[copy4.jpg]]
+
+When you click Copy at the bottom, the Nanopub Edit page will open, where you can make changes.  Be sure to save your new nanopub.
 
