@@ -1,7 +1,7 @@
 # Creating an Orthologized Network
 
 To create an orthologized network you first start by selecting the set of nanopubs you'd like work from (e.g. metadata:project=x or network neighborhood of p(HGNC:AKT1)).
-You can then select the Edge Species that you’d like to work with.  *NOTE: This is not the species listed in the nanopub annotations- it is the species associated with the edge.
+You can then select the Edge Species that you’d like to work with.  *NOTE: This is not the species listed in the nanopub annotations- it is the species associated with the edge.*
 
 ![[networks_62.png]]
 
