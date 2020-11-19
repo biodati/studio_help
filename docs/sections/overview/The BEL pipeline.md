@@ -15,6 +15,8 @@ Each assertion is canonicalized during processing. BEL requires the use of a nam
 
 The BEL pipeline adds **Orthologized Edges**- equivalent edges in different species- usually mouse, rat, or human.  In the example above, *this adds two new edges*.
 
+**Primary Edges** are Original Edges, (the assertions), + orthologized original Edges.  This example has 3 primary edges.
+
 **Computed Edges** are computer generated edges added to aid Network building.  They include hasMember, hasComponent, hasActivity, hasModification, hasFragment, hasLocation, equivalentTo, hasReactant and hasProduct relation containing edges. They are also orthologized, in this case, hasActivity edges are added, generating *three new edges*, for a total of six edges from this one assertion.  
 
 **Backbone Edges**, translatedTo and transcribedTo containing edges, are computer generated edges available in the Edge Store to aid Network building.  They are not associated with specific nanopubs.
