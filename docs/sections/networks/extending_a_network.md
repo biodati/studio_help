@@ -1,8 +1,15 @@
 # Extending a Network
 
-Search for your networks. 1) Select search networks. 2) Check 'Me' for your own networks 3) Activate your network and after activation you will see it listed at the top (4) [this network was already activated prior to this screenshot]
+First you must choose and activate the Network that you wish to extend. 
+
+So,search for your networks. 
+1) Select Network Search. 
+2) Check 'Me' for your own networks 
+3) Activate your network and after activation you will see it listed at the top in the banner. (4) [this network was already activated prior to this screenshot]
 
 ![[networks_71.png]]
+
+Activation will take you to the Network page.
 
 ![[networks_72.png]]
 
