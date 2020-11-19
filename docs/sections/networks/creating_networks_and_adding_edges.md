@@ -79,6 +79,6 @@ The shortest path search is designed to allow you to find the shortest path (and
    
    Once your edges have been selected, create Network, add to Active Network, and Add to Active Project options will be enabled.
 
-Click create Network and follow the prompts to create your firat Network.  
+Click create Network and follow the prompts to create your first Network.  
 
-If an existing Network is active, you can add new edges to that Network by following the steps above, and clicking add to Network, instead of Create, after your edges have been selected.
+**If an existing Network is active, you can add new edges to that Network by following the steps above, and clicking add to Network, instead of Create, after your edges have been selected.**
