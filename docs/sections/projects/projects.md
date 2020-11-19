@@ -32,7 +32,7 @@ Hover over the project line to reveal Hover Icons. These icons will allow you to
 
 See
 
-[[Adding and Removing Nanopubs from an Active Project]]
+[[Adding and Removing Nanopubs]]
 
 [[Adding and Removing Networks from a Project]]
 
