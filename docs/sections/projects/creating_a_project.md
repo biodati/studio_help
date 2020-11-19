@@ -9,4 +9,4 @@ Once you're signed in to your BioDati account, you'll be on the dashboard. In th
 
 ![[projects_10.png]]
 
-    [Adding a NanoPub to a Project](https://help.biodati.com/workspaces/adding-a-nanopub-to-a-workspace)
+    [[Adding a NanoPub to a Project]]
