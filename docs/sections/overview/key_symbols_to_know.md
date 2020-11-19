@@ -31,29 +31,29 @@ These four squares indicate "dashboard" which will always take you back to the m
 
 ![[overview_17.png]]
 
-The arrow pointing down to a hard drive means "save."
+The disk icon means "save."
 
-![[overview_18.png]]
+![[save.jpg]]
 
-![[overview_19.png]]
+![[save2.jpg]]
 
 Three horizontal lines mean "more options."
 
 ![[overview_20.png]]
 
-![[overview_21.png]]
+![[save3.jpg]]
 
-Two boxes in front of one another means "copy."
+Two stacked sheets mean "copy."
 
-![[overview_22.png]]
+![[save4.jpg]]
 
-![[overview_23.png]]
+![[save5.jpg]]
 
 The page with an arrow pointing past the upper right hand corner means "open in a new tab."
 
-![[overview_24.png]]
+![[save6a.jpg]]
 
-![[overview_25.png]]
+![[save7.jpg]]
 
 The arrowhead pointing left usually found on the top left corner means "back to dashboard."
 
@@ -62,7 +62,7 @@ The arrowhead pointing left usually found on the top left corner means "back to 
 ![[overview_27.png]]
 
 The check mark means "make active."
-[
+
 ![[overview_28.png]]
 
 ![[overview_29.png]]

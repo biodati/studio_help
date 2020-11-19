@@ -2,14 +2,26 @@
 
 ## Labelling nodes and edges and altering the layout of a network.
 
-After clicking display you'll find all the different options to change the way you see your network.
+After clicking display (1) you'll find all the different options to change the way you see your network.
 
-![[networks_32.png]]
+![[display1.jpg]]
 
-[Lassoing Nodes and Edges](https://help.biodati.com/networks/visualization/lassoing-nodes-and-labels)
+STYLE, (2), will let you chose between BEL and  bayesian style displays.
 
-[Searching for a Node in Visualization](https://help.biodati.com/networks/visualization/changing-display-in-visualization)
+LAYOUT, (3), allows you to chose between: Force Directed (the default), Organic, Grid, Circular, and Hierachical layouts.  
 
-[Toggle Pathing](https://help.biodati.com/networks/visualization/toggle-pathing-in-visualization)
+Smart Nodes and Edges, (4), display the labels only when you zoom in on a network, such that the labels are large enough to be read. 
+Standard Nodes and Edge Labels can also be used.
 
-[Hiding Nodes and Edges in Visualization](https://help.biodati.com/networks/visualization/hiding-nodes-and-edges-in-visualization)
+To zoom in on a network, double click on an area without nodes or edges.  If you single click on an area without nodes or edges, you can move the entire network around the field of view. To reset the view, click the Reset Viewport icon.
+
+![[display2.jpg]]
+
+
+[[Lassoing Nodes and Edges]]
+
+[[Searching for a Node in a Network]]
+
+[[Toggle Pathing in visualizaion]]
+
+[[Hiding Nodes and Edges in Visualization]]

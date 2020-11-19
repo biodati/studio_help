@@ -41,7 +41,7 @@ Example search string components (use  **AND**  ,  **OR**  , or  **AND NOT**  to
 
 ![[networks_59.png]]
 
-  ###  Network Neighborhood
+###  Network Neighborhood
   
 Network neighborhood searches start with a given set of nodes and then expand out by the given number of steps.
 
@@ -58,7 +58,7 @@ You can also set the number of steps (1 - 5). However, more steps will cause the
 
 ![[networks_60.png]]
 
-  ###  Shortest Path
+###  Shortest Path
   
 Shortest path queries look for the shortest paths between two nodes. If you add nodes to the start and end nodes lists, it will find the shortest paths (and edges comprising those paths) between all of the nodes in the start nodeset versus the end nodeset.
 
@@ -68,12 +68,14 @@ Shortest path queries look for the shortest paths between two nodes. If you add 
 
 One of the search facets that can be used to filter the edges in your search is called edge\_types. The different edge types are listed below:
 
-*   **primary**  - Assertion pulled directly from Nanopub (includes orthologized versions of Nanopub assertions)
+*   **primary**  - Assertion pulled directly from a nanopub (includes orthologized versions of nanopub assertions)
 
-*   **original**  - Unorthologized assertion pulled straight from Nanopub - will be decanonicalized (e.g. use preferred namespaces from the pipeline configuration such as HGNC for human proteins if available)
+*   **original**  - Unorthologized assertion pulled straight from a nanopub.
 
 *   **orthologized**  - edge created from either a primary or computed edge - orthologized to the species requested (partially orthologized edges are not allowed - all BEL entities that can be orthologized must be for the edge to be created
 
-*   **computed**  - edge created from Assertion (either orthologized or primary) - e.g. hasActivity, hasComponent relationships
+*   **computed**  - edge created from the assertion by list expansion. (either orthologized or primary) - e.g. hasActivity, hasComponent relationships
 
 *   **causal**  - edge much be a causal edge - e.g. BEL causal relationships such as increases, decreases, etc
+
+[[The BEL pipeline]]

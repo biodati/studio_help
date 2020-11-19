@@ -14,4 +14,4 @@ Then
 
 ![[networks_14.png]]
 
-[Importing Networks](https://help.biodati.com/networks/importing-networks)
+[[Importing Networks]]

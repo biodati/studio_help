@@ -1,19 +1,21 @@
-# Pinning NanoPubs
+# Pinning Nanopubs
 
-If you find a NanoPub that you want to review later, there's an easy way to do it. Just click the thumbtack button on the top right corner of the NanoPub you want to save!
+If you find a nanopub that you want to review later, there's an easy way to do it. Just hover your cursor over the nanopub, and click the thumbtack button on the far right of the nanopub you want to pin.
 
-![[knowledge_44.png]]
+![[pin1.jpg]]
 
-   You'll know it has been successfully saved when the gray thumbtack turns yellow!
+You will know that the nanopub is pinned when the yellow thumbtack is visible.
 
-![[knowledge_45.png]]
+![[pin2.jpg]]
 
-   If you want to review the NanoPubs that you've pinned, all you have to do is click the box at the top of the Search Facets column that says "Pinned."
+You can also pin a nanopub from the Nanopub Review page.
 
-![[knowledge_46.png]]
+See [[Reviewing a Nanopub]] for a description of the Nanopub Review page.
 
-   The moment you click on the box, a checkmark appears in it and now all of the search results will be filtered down to your pinned NanoPubs.
+If you want to review the nanopubs that you've pinned, all you have to do is click the box at the top of the Search Facets column that says "Pinned."
 
-![[knowledge_47.png]]
+![[pin3.jpg]]
 
-    [Reviewing Pinned Nanopubs](https://help.biodati.com/en/articles/2159800-reviewing-pinned-nanopubs)
+The moment you click on the box, a checkmark appears in it, and all of the search results will be filtered down to your pinned nanopubs.
+
+See also:  [[Reviewing Pinned Nanopubs]]

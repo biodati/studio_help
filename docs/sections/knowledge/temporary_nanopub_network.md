@@ -10,19 +10,19 @@ Please note the limitations:
 
 3.  They are not listed in the Network search results.
 
-4.  Temporary Networks have a limit of 1000 Nanopubs
+4.  Temporary Networks have a **limit of 1000 Assertions**
 
 To narrow down the Nanopubs that you will use for your draft network:
 
 1.  Start a Nanopub search
 
-2.  Filter it (search or facet filters to < 1000 Nanopubs
+2.  Filter it (search or facet filters to < 1000 Assertions).  
 
-3.  Select TempNetwork option
+3.  Click "TempNetwork".
 
-![[knowledge_50.png]]
+![[TempNetwork.jpg]]
 
-   Once you've selected 'TempNetwork,' it will lead you right to its own network page where you can treat it like any other network - including network visualization.
+   Once you've selected 'TempNetwork,' it will lead you right to its own network page where you can treat it like any other network - including network visualization, and making a permanent copy of the TempNetwork.
 
-![[knowledge_51.png]]
+![[TempNetwork2.jpg]]
 

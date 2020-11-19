@@ -13,11 +13,11 @@ To enter an Assertion;
 
 *  Type the correct function or select the function from the list provided by the completion engine.
 
-![[knowledge_3.png]]
+![[assertions1.jpg]]
 
 *  Finish typing in your Subject. If the species is set, the completion engine will help you find the correct term in an appropriate namespace as you type. A description of function and argument help is provided to the right of the form.
 
-![[knowledge_4.png]]
+![[assertions2.jpg]]
 
 *  Select the Relation from the drop down list.
 
@@ -25,6 +25,6 @@ To enter an Assertion;
 
 *  When the assertion is complete, click the ADD button.
 
-[http://help.biodati.com/en/articles/3960286-assertion-validation](https://help.biodati.com/en/articles/3960286-assertion-validation)
+[[Assertion Validation]]
 
-[http://help.biodati.com/en/articles/3960509-editing-assertions](https://help.biodati.com/en/articles/3960509-editing-assertions)
+[[Editing Assertions]]

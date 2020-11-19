@@ -13,4 +13,4 @@ Importing Networks is an easy way to get a network from your computer and onto B
 
 ![[networks_11.png]]
 
-[Exporting Networks](https://help.biodati.com/en/articles/2869388-exporting-networks)
+[[Exporting Networks]]

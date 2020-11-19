@@ -24,7 +24,7 @@ E.g. In this example of metabolomics data, there are contradictory BEL statement
 
 ![[knowledge_14.png]]
 
-## Some useful Namespace databases:
+## Some useful Namespace databases: This list is *not* all inclusive.
 
 GO <http://geneontology.org/>
 
@@ -39,4 +39,12 @@ CHEMBL <https://www.ebi.ac.uk/chembl/>
 HGNC <https://www.genenames.org/tools/search/#!/genes?query=>
 
 DO <https://disease-ontology.org/>
+
+TAX <https://www.ncbi.nlm.nih.gov/taxonomy>
+
+UBERON <https://www.ebi.ac.uk/ols/ontologies/uberon>
+
+CL	<https://bioportal.bioontology.org/ontologies/CL>
+
+CLO <http://www.clo-ontology.org/>
 
