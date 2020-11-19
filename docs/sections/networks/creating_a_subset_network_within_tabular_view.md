@@ -1,19 +1,23 @@
-# Creating a Subset Network within Tabular View
+# Creating a Subset Network within Tabular and Vizualizer.
 
-## Creating a separate network from an already existing network using tabular.
+## Creating a separate network from an already existing network.
 
-Start off by selecting a network you'd like to work off of. Once you have made the network active, look to your left hand side and 1.) click "Nodes." This is where you will select the 2.) Node you wish to start the subset network with. Then 3.) Select the amount of steps from that node and 4.) Which direction you'd like the steps to move and then 5.) Visualize.
+Start off by selecting a network you'd like to work off of. Once you have made the network active, look to your left hand side and 1.) click "Nodes". This is where you will select the 2.)  the node you wish to start the subset network with. 3.) Select the number of steps from that node and 4.) the Mode, which direction you'd like the steps to move. Then 5.) Visualize.
 
-![[networks_78.png]]
+![[subset1.jpg]]
 
-   When visualized, look on the list of options at the top for a paper with a plus sign in it.
+   When visualized, look on the list of options at the top for the Create Network from Selection icon, a paper with a plus sign in it.
 
 ![[networks_79.png]]
 
-![[networks_80.png]]
+![[subset2.jpg]]
 
-   Following, you'll see a pop-up to fill in the rest of the information to officially make it a network.
+  Click it to open a popup window. Fill in the information to officially make a new network.
 
-![[networks_81.png]]
+![[subset3.jpg]]
 
-[How to Reset a Selection Using Tabular View](https://help.biodati.com/en/articles/2377727-how-to-reset-a-selection-using-the-tabular-view)
+You can also create a subset Network by selecting a portion of the parent network using the lasso, then clicking the Create Network from Selection icon.
+
+[[Lassoing Nodes and Edges]]
+
+[[How to Reset a Selection Using the Tabular View]]
