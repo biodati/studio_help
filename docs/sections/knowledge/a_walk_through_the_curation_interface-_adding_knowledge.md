@@ -37,7 +37,7 @@ Next, add the evidence on which you will base your assertions.
 
 ![[curation8.jpg]]
 
-   Complete your Subject. Select a Relation from the drop down menu, and type in an Object. The completion engine will help you with Objects as well. When done, click  "ADD" at the end of the line to add the Assertion. You may now add another Assertion, or review the Annotations.
+   Complete your Subject. Select a Relation from the drop down menu, and type in an Object. The completion engine will help you with Objects as well. When done, click  "ADD" at the end of the line to add the Assertion. You may now add another Assertion, or review the Annotations.  For more details please see; [[How to use Completion when Editing or Creating an Assertion]] and [[Assertion Validation]].
    
 **Annotations** are used to provide experiemntal context. They are easy to edit and add. 
 
