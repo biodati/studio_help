@@ -48,4 +48,4 @@ CL	<https://bioportal.bioontology.org/ontologies/CL>
 
 CLO <http://www.clo-ontology.org/>
 
-[[Custom Namespaces/Terminologies]]
+[[Custom Namespaces Terminologies]]
