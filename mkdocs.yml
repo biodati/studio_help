@@ -53,6 +53,7 @@ nav:
       - How to Add And Use Nodes in Your Clipboard: sections/networks/how_to_add_and_use_nodes_in_your_clipboard.md
       - Searching for Network Edges: sections/networks/searching_for_network_edges.md
       - Creating an Orthologized Network: sections/networks/creating_an_orthologized_network.md
+      - Copying a Network: sections/networks/copying a network.md 
       - Importing Networks: sections/networks/importing_networks.md
       - Exporting Networks: sections/networks/exporting_networks.md
       - Source Code Editors: sections/networks/source_code_editors.md
