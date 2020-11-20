@@ -51,7 +51,7 @@ Type within the ID OR Label field and select the appropriate term suggested by t
 
 If the term you are looking for does not appear, you can add the ID (namespece:number) and Label manually.  If the namespace is not supported by BioDati Studio, you can use it, but will get a warning for the annotation.  
 
-To the right of each line in the annotation field, you will see two icons (1), which will allow you to copy, or (2) delete the Annotation. To Edit an Annotation, just click in the desired field and type. 
+To the right of each line in the annotation field, you will see two icons. (1) will allow you to copy the annotation. while (2) will delete the Annotation. To Edit an Annotation, just click in the desired field and type. 
 
 ![[curation11.jpg]]
 
