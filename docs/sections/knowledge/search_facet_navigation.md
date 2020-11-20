@@ -6,8 +6,8 @@ When looking through the Nanopub Facets, be sure you're aware that you can scrol
 
 [[Nanopub Statuses and What They Mean]]
 
-[[Glossary]]
+[[BioDati Glossary]]
 
 [[Pinning Nanopubs]]
 
-[[Searching Nanopub Overview]]
+[[Searching Knowledge Overview]]
