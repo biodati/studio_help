@@ -1,6 +1,6 @@
 # The BEL pipeline- The Edge Report and Edge Types
 
-When a nanopub nanopub is processed through the BEL pipeline, the assertions become edges in the Edge Store.
+When a nanopub is processed through the BEL pipeline, the assertions become edges in the Edge Store.
 There are more edges created that there are assertions in the nanopub.  The Edge Report shows you all the edges created from that nanopub in the Edge store.  
 
 The Edge Report can be accessed by clicking the hover icon that appears above any nanopub on the Knowledge Search page, when your cursor hovers over a nanopub in the nanopub list.  
