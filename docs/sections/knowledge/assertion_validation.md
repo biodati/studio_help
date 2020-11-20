@@ -12,4 +12,4 @@ Click on the error or warning icon for detailed information about the errors or 
    
 To Edit Assertions see:
 
-[Editing Assertions](https://help.biodati.com/en/articles/3960509-editing-assertions)
+[[Editing Assertions]]
