@@ -1,6 +1,4 @@
 # Searching Knowledge Overview
- 
-## How to find Nanopubs, expand Assertions, and utilize the Facets.
 
 When you're ready to search for a nanopub, you can get there a few different ways. The easiest way is through the home screen, otherwise known as the dashboard.
 Once you've landed yourself on the dashboard, you'll see a box that says "Knowledge," under it will be a couple of options. Click the Search icon.
