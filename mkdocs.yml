@@ -1,7 +1,6 @@
 site_name: BioDati Studio Help
 nav:
   - Home: index.md
-  - About: about.md
   - Users:
     - Overview:
       - Getting started: sections/overview/getting_started.md
@@ -72,7 +71,8 @@ nav:
     - Custom Namespaces/Terminologies: sections/dev/custom_namespaces_terminologies.md
   - Administration:
     - VPN and IP-address restriction: sections/admin/vpn_and_ip-address_restriction.md
-
+  - About: about.md
+  
 # theme:
 #   name: null
 #   custom_dir: 'cinder'

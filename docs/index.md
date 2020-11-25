@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# BioDati Studio Help
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Thank you for using BioDati Studio! Our goal is to make creating, using and sharing *Biological Knowledge* as easy and powerful as possible. In today's world of Big Biology, Data Science and Precision Medicine, shareable and computable knowledge is a requirement not a luxury.
 
-## Commands
+The **Users** entry in the Table of Contents on the left contains all of our User oriented help on using BioDati Studio.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+If you cannot find the help you need here, please let us know at:
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- How to use the [Support Desk](sections/overview/how_to_get_help.md)
+- Or email us at [help@biodati.com](mailto:help@biodati.com)
