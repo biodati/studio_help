@@ -83,8 +83,8 @@ theme:
     scheme: default
     primary: deep orange
     accent: blue
-  logo: https://biodati.com/img/biodati-logo-v2.png
-  favicon: img/favicon.ico
+  logo: img/biodati_round_logo_only_dark.svg
+  favicon: img/favicon-32x32.png
 
 markdown_extensions:
 - toc:
