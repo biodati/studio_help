@@ -1,9 +1,9 @@
 # Importing Networks
 
 Importing Networks is an easy way to get a network from your computer and onto BioDati.
-(NOTE: The file you import must be in .jgf or .json form)
-2.  Find the import symbol at the top
-4.  Select Network from the dropdown
+(NOTE: The file you import must be in .jgf or .json form.)
+Find the import symbol at the top.
+Select Network from the dropdown.
 
 ![[networks_9.png]]
 

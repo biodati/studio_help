@@ -10,10 +10,18 @@ The union and intersection dialogue box will open, Click union OR intersection.
 
 ![[union2.jpg]]
 
+<<<<<<< HEAD
 Your new Network will appear at the bottom of your Network list.
 
 ![[union3.jpg]]
 
 Once you activate your new network, you can edit the Network name and description as desired, by clicking “Edit Network Information” on the Network landing page.
+=======
+Your new network will appear at the bottom of your Network List.
+
+![[union3.jpg]]
+
+Once you activate your new network, you can edit the network name and description as desired, by clicking “Edit Network Information” on the Network landing page.
+>>>>>>> For-Next-Release
 
 

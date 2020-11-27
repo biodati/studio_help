@@ -1,7 +1,6 @@
 site_name: BioDati Studio Help
 nav:
   - Home: index.md
-  - About: about.md
   - Users:
     - Overview:
       - Getting started: sections/overview/getting_started.md
@@ -53,6 +52,7 @@ nav:
       - How to Add And Use Nodes in Your Clipboard: sections/networks/how_to_add_and_use_nodes_in_your_clipboard.md
       - Searching for Network Edges: sections/networks/searching_for_network_edges.md
       - Creating an Orthologized Network: sections/networks/creating_an_orthologized_network.md
+      - Copying a Network: sections/knowledge/copying a network.md 
       - Importing Networks: sections/networks/importing_networks.md
       - Exporting Networks: sections/networks/exporting_networks.md
       - Source Code Editors: sections/networks/source_code_editors.md
@@ -71,7 +71,8 @@ nav:
     - Custom Namespaces/Terminologies: sections/dev/custom_namespaces_terminologies.md
   - Administration:
     - VPN and IP-address restriction: sections/admin/vpn_and_ip-address_restriction.md
-
+  - About: about.md
+  
 # theme:
 #   name: null
 #   custom_dir: 'cinder'
@@ -82,8 +83,8 @@ theme:
     scheme: default
     primary: deep orange
     accent: blue
-  logo: https://biodati.com/img/biodati-logo-v2.png
-  favicon: img/favicon.ico
+  logo: img/biodati_round_logo_only_dark.svg
+  favicon: img/favicon-32x32.png
 
 markdown_extensions:
 - toc:

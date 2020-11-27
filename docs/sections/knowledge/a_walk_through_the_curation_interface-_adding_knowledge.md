@@ -37,7 +37,11 @@ Next, add the evidence on which you will base your assertions.
 
 ![[curation8.jpg]]
 
+<<<<<<< HEAD
    Complete your Subject. Select a Relation from the drop down menu, and type in an Object. The completion engine will help you with Objects as well. When done, click  "ADD" at the end of the line to add the Assertion. You may now add another Assertion, or review the Annotations.
+=======
+   Complete your Subject. Select a Relation from the drop down menu, and type in an Object. The completion engine will help you with Objects as well. When done, click  "ADD" at the end of the line to add the Assertion. You may now add another Assertion, or review the Annotations.  For more details please see; [[How to use Completion when Editing or Creating an Assertion]] and [[Assertion Validation]].
+>>>>>>> For-Next-Release
    
 **Annotations** are used to provide experiemntal context. They are easy to edit and add. 
 
@@ -51,7 +55,11 @@ Type within the ID OR Label field and select the appropriate term suggested by t
 
 If the term you are looking for does not appear, you can add the ID (namespece:number) and Label manually.  If the namespace is not supported by BioDati Studio, you can use it, but will get a warning for the annotation.  
 
+<<<<<<< HEAD
 To the right of each line in the annotation field, you will see two icons (1), which will allow you to copy, or (2) delete the Annotation. To Edit an Annotation, just click in the desired field and type. 
+=======
+To the right of each line in the annotation field, you will see two icons. (1) will allow you to copy the annotation. while (2) will delete the Annotation. To Edit an Annotation, just click in the desired field and type. 
+>>>>>>> For-Next-Release
 
 ![[curation11.jpg]]
 
