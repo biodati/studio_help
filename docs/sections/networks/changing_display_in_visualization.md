@@ -8,7 +8,7 @@ After clicking display (1) you'll find all the different options to change the w
 
 STYLE, (2), will let you chose between BEL and  bayesian style displays.
 
-LAYOUT, (3), allows you to chose between: Force Directed (the default), Organic, Grid, Circular, and Hierachical layouts.  
+LAYOUT, (3), allows you to chose between: Force Directed (the default), Organic, Grid, Circular, and Hierarchical layouts.  
 
 Smart Nodes and Edges, (4), display the labels only when you zoom in on a network, such that the labels are large enough to be read. 
 Standard Nodes and Edge Labels can also be used.
@@ -22,10 +22,6 @@ To zoom in on a network, double click on an area without nodes or edges.  If you
 
 [[Searching for a Node in a Network]]
 
-<<<<<<< HEAD
-[[Toggle Pathing in visualizaion]]
-=======
 [[Toggle Pathing in Visualization]]
->>>>>>> For-Next-Release
 
 [[Hiding Nodes and Edges in Visualization]]

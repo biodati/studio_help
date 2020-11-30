@@ -1,13 +1,5 @@
 # Activating a Project
 
-<<<<<<< HEAD
-In order to add things to your Project, you must first activate a workspace. From your dashboard, click on the "+" to create a new Project, or the magnifying glass to search one that is already created.
-
-![[projects_21.png]]
-
-   If you created a project, your project will automatically be activated after it's created.
-If you're choosing an already created project, hover over the project that you want and click the project name.
-=======
 In order to add things to your project, you must first activate a it. From your dashboard, click on the "+" to create a new Project, or the magnifying glass to search one that has already been created.
 
 ![[projects_21.png]]
@@ -21,7 +13,6 @@ In order to add things to your project, you must first activate a it. From your 
 If you choose a project to activate on the Project Search page, hover your cursor over the project that you want until the check mark appears. Click it to make the project active.
 
 Clicking the project name in the project list or in the banner will load the project.
->>>>>>> For-Next-Release
 
 ![[projects_22.png]]
 

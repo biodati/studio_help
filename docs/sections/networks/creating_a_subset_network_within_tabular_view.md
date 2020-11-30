@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Creating a Subset Network within Tabular and Vizualizer.
-=======
 # Creating a Subset Network within Tabular and Visualizer.
->>>>>>> For-Next-Release
 
 ## Creating a separate network from an already existing network.
 

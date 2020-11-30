@@ -12,7 +12,7 @@ The Abstract, and Citation Information fields, excluding the Evidence, will auto
 
 ![[curation3.jpg]]
 
-   If you want to return to the PubMed annotations later, click the add annotaions icon (1). 
+   If you want to return to the PubMed annotations later, click the add annotations icon (1). 
    If you click the goto page icon (2), the PubMed citation page will open in a new window, so you can refer to it while working.
 
 ![[curation4.jpg]]
@@ -37,13 +37,9 @@ Next, add the evidence on which you will base your assertions.
 
 ![[curation8.jpg]]
 
-<<<<<<< HEAD
-   Complete your Subject. Select a Relation from the drop down menu, and type in an Object. The completion engine will help you with Objects as well. When done, click  "ADD" at the end of the line to add the Assertion. You may now add another Assertion, or review the Annotations.
-=======
    Complete your Subject. Select a Relation from the drop down menu, and type in an Object. The completion engine will help you with Objects as well. When done, click  "ADD" at the end of the line to add the Assertion. You may now add another Assertion, or review the Annotations.  For more details please see; [[How to use Completion when Editing or Creating an Assertion]] and [[Assertion Validation]].
->>>>>>> For-Next-Release
    
-**Annotations** are used to provide experiemntal context. They are easy to edit and add. 
+**Annotations** are used to provide experimental context. They are easy to edit and add. 
 
 To add an Annotation, click in the TYPE box, and select the type of Annotation that you would like to ADD from the dropdown menu.
 
@@ -53,13 +49,9 @@ Type within the ID OR Label field and select the appropriate term suggested by t
 
 ![[curation10.jpg]]
 
-If the term you are looking for does not appear, you can add the ID (namespece:number) and Label manually.  If the namespace is not supported by BioDati Studio, you can use it, but will get a warning for the annotation.  
+If the term you are looking for does not appear, you can add the ID (namespace:number) and Label manually.  If the namespace is not supported by BioDati Studio, you can use it, but will get a warning for the annotation.  
 
-<<<<<<< HEAD
-To the right of each line in the annotation field, you will see two icons (1), which will allow you to copy, or (2) delete the Annotation. To Edit an Annotation, just click in the desired field and type. 
-=======
 To the right of each line in the annotation field, you will see two icons. (1) will allow you to copy the annotation. while (2) will delete the Annotation. To Edit an Annotation, just click in the desired field and type. 
->>>>>>> For-Next-Release
 
 ![[curation11.jpg]]
 
