@@ -10,4 +10,4 @@
 
    2)  Click on the support button to open a conversation with our support team.  We have a support team standing by and generally available in minutes from 7am - 8pm US Eastern (07:00 - 20:00 GMT-4/5).
 
-![[overview_7.png]]
+![[help2.jpg]]
