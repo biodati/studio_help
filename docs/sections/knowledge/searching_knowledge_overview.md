@@ -17,7 +17,7 @@ To use the Search Field, enter your search beside the magnifying glass and hit r
 
 You can filter which nanopubs you're viewing and searching through by utilizing the Facets section on the left side of the screen.
 
-Knowledge Search Facets are divided by Status (nanopub curation status), Owners (The creator of the nanopub), Relations (BEL edge relations), Collections, Update and original Creation Date, Annotations,  Validation, and BEL version.  Check the box next to "Me" to view or search through the nanopubs you've created. Check the box next to "Pinned" to view or search any of the nanopubs that you have pinned. If you have a nanopub collection you can also check the "Collections" facet to see the nanopubs in your collection.
+Knowledge Search Facets are divided by Status (nanopub curation status), Owners (The creator of the nanopub), Relations (BEL edge relations), Collections, Update Date, original Creation Date, Annotations, Validation, and BEL version.  Check the box next to "Me" to view or search through the nanopubs you've created. Check the box next to "Pinned" to view or search any of the nanopubs that you have pinned. If you have a nanopub collection you can also check the "Collections" facet to see the nanopubs in your collection.
 
 ![[knowledge8.jpg]]
 
