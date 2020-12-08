@@ -12,19 +12,19 @@ E.g. BEL Assertion: a(CHEMBL:water)
 
 E.g. The human g(HGNC:ACE2) is orthologous to mouse g(MGI:Ace2).
 
-E.g. In this example of metabolomics data, there are contradictory BEL statements:
+E.g. 3- phospho-D- glycerate is also known as: 3-Phosphoglyceric acid, PGA, and 3PG.  In this example of metabolomics data, there are contradictory BEL statements:
 
 ![[knowledge_12.png]]
 
-   When we click on the Nanopub URL(s) and Review the nanopubs, we learn that the first Assertion is derived from saliva samples.
+   When we click on the Nanopub URL(s) and Review the nanopubs, we learn that the first assertion is derived from saliva samples.
 
 ![[knowledge_13.png]]
 
-   The second Assertion is from the same paper, but the metabolites are derived from tissue samples. Both Assertions are valid, but which Assertion is relevant is determined by the biological context.
+   The second assertion is from the same paper, but the metabolites are derived from tissue samples. In this case, both assertions are valid, but which assertion is relevant is determined by the biological context.
 
 ![[knowledge_14.png]]
 
-## Some useful Namespace databases: This list is *not* all inclusive.
+## Some useful Namespace databases to get started. This list is *not* all inclusive.
 
 GO <http://geneontology.org/>
 
