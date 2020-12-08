@@ -60,7 +60,7 @@ A Nearest Neighbor search starts from a Node or list of Nodes.
    
 a) Number of steps out from your start Node. The larger the number of steps, the larger the network you will return.
 
-b) The direction of those steps. Outbound steps use the Start Node as Subject of an assertion. Inbound steps use the Start Node as the Object of an Assertion.
+b) The direction of those steps. Outbound steps use the Start Node as Subject of an assertion. Inbound steps use the Start Node as the Object of an assertion.
 
 c) Contains. If the contains box is checked, the start node is expanded to include all the nodes with the identified entity. In the example above, the start node would include p(HGNC:CDK9), and all other nodes that contain p(HGNC:CDK9); deg(p(HGNC:CDK9)), act(p(HGNC:CDK9), ma(kin)), and p(HGNC:CDK9) containing complexes. If the contains box is not checked, p(HGNC:CDK9) would be the only start node.
 
