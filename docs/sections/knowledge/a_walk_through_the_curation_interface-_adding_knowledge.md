@@ -29,7 +29,7 @@ Now, check the species box (1). The form defaults to human. To change species, t
 
 Next, add the evidence on which you will base your assertions.
  
- To add your first Assertion. Click in the subject box. The completion engine will suggest BEL functions for you to select.
+ To add your first assertion. Click in the Subject box. The completion engine will suggest BEL functions for you to select.
 
 ![[assertions1.jpg]]
 
@@ -37,11 +37,11 @@ Next, add the evidence on which you will base your assertions.
 
 ![[curation8.jpg]]
 
-   Complete your Subject. Select a Relation from the drop down menu, and type in an Object. The completion engine will help you with Objects as well. When done, click  "ADD" at the end of the line to add the Assertion. You may now add another Assertion, or review the Annotations.  For more details please see; [[How to use Completion when Editing or Creating an Assertion]] and [[Assertion Validation]].
+   Complete your Subject. Select a Relation from the drop down menu, and type in an Object. The completion engine will help you with Objects as well. When done, click  "ADD" at the end of the line to add the assertion. You may now add another assertion, or review the annotations.  For more details please see; [[How to use Completion when Editing or Creating an Assertion]] and [[Assertion Validation]].
    
 **Annotations** are used to provide experimental context. They are easy to edit and add. 
 
-To add an Annotation, click in the TYPE box, and select the type of Annotation that you would like to ADD from the dropdown menu.
+To add an annotation, click in the TYPE box, and select the type of annotation that you would like to ADD from the dropdown menu.
 
 ![[curation9.jpg]]
 
@@ -51,7 +51,7 @@ Type within the ID OR Label field and select the appropriate term suggested by t
 
 If the term you are looking for does not appear, you can add the ID (namespace:number) and Label manually.  If the namespace is not supported by BioDati Studio, you can use it, but will get a warning for the annotation.  
 
-To the right of each line in the annotation field, you will see two icons. (1) will allow you to copy the annotation. while (2) will delete the Annotation. To Edit an Annotation, just click in the desired field and type. 
+To the right of each line in the annotation field, you will see two icons. (1) will allow you to copy the annotation. while (2) will delete the annotation. To edit an annotation, just click in the desired field and type. 
 
 ![[curation11.jpg]]
 
@@ -59,14 +59,14 @@ Validation of assertions and annotations occurs in the background after you save
 
 ![[curation12.jpg]]
 
-For more on Validation, see: [[Assertion Validation]].  If you need to edit an assertion or annotation, simply click on the field in the assertion (or annotation) that needs to be edited, and type.  The completion engine will help.  See also: [[Editing Assertions]].
+For more on validation, see: [[Assertion Validation]].  If you need to edit an assertion or annotation, simply click on the field in the assertion (or annotation) that needs to be edited, and type.  The completion engine will help.  See also: [[Editing Assertions]].
 
 If you wish to add your new nanopub to a collection, you will need to edit the Metadata.
-Click on the collections box (1). Click Edit(2). Type in the collection name in the value field (3). Collections are always a "list of strings", even if the nanopub is only added to a single collection. The nanopub can be added to multiple collections by entering multiple names, separated by commas. Click Create/Update (4).  for more details, see: [[Collections-Adding and editing Metadata]]
+Click on the collections box (1). Click Edit(2). Type in the collection name in the value field (3). Collections are always a "list of strings", even if the nanopub is only added to a single collection. The nanopub can be added to multiple collections by entering multiple names, separated by commas. Click Create/Update (4).  For more details, see: [[Collections-Adding and editing Metadata]]
 
 ![[knowledge_27.png]]
 
-Finally you can go back to the top of your completed nanopub and use the drop down menu to update the status. The nanopub will save automatically. Please see [[NanoPub Statuses and What They Mean]]
+Finally you can go back to the top of your completed nanopub and use the drop down menu to update the status. The nanopub will save automatically when the status is changed. Please see [[NanoPub Statuses and What They Mean]]
 
 ![[knowledge_28.png]]
 
