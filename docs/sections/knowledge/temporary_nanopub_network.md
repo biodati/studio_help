@@ -1,6 +1,6 @@
 # Temporary Nanopub Network
 
-The Temporary Network feature allows you to create a temporary network from the Assertions in the selected set of Nanopubs. These assertions are mapped into a temporary network for quick review while curating a set of nanopubs.
+The Temporary Network feature allows you to create a temporary network from the assertions in the selected set of nanopubs. These assertions are mapped into a temporary network for quick review while curating a set of nanopubs.
 
 Please note the limitations:
 
@@ -8,15 +8,15 @@ Please note the limitations:
 
 2.  The draft networks are automatically deleted after 4 hours.
 
-3.  They are not listed in the Network search results.
+3.  They are not listed in the Network Search results.
 
-4.  Temporary Networks have a **limit of 1000 Assertions**
+4.  Temporary Networks have a **limit of 1000 assertions**
 
-To narrow down the Nanopubs that you will use for your draft network:
+To narrow down the nanopubs that you will use for your draft network:
 
-1.  Start a Nanopub search
+1.  Start a nanopub search (Search Knowledge).
 
-2.  Filter it (search or facet filters to < 1000 Assertions).  
+2.  Filter it (search or facet filters) to < 1000 Assertions).  
 
 3.  Click "TempNetwork".
 
