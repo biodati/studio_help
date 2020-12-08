@@ -2,7 +2,7 @@
 
 As long as you have a NanoPub saved onto your computer in a .json format, you can import it onto BioDati Studio!
 
-1.  Click the import symbol in the banner, and select Knowledhe from the dropdown.
+1.  Click the import symbol in the banner, and select Knowledge from the dropdown.
 
 **OR**
 
