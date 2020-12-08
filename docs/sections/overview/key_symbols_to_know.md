@@ -49,13 +49,13 @@ Two stacked sheets mean "copy."
 
 ![[save5.jpg]]
 
-The page with an arrow pointing past the upper right hand corner means "open in a new tab."
+The page with an arrow pointing past the upper right hand corner means "open citation in a new tab."
 
 ![[save6a.jpg]]
 
 ![[save7.jpg]]
 
-The arrowhead pointing left usually found on the top left corner means "back to dashboard."
+The arrowhead pointing left usually found on the top left corner means "back to previous page."
 
 ![[overview_26.png]]
  
