@@ -20,7 +20,7 @@ The Project page displays the current list of networks in your project. Links fr
 
 ![[projects_8.png]]
 
-  ### From the project page you can also find the union or intersection of two or more Networks. 
+### From the project page you can also find the union or intersection of two or more Networks. 
   
   Please see: [[Combining Networks]]
   
