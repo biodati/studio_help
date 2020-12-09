@@ -20,4 +20,6 @@ The Project page displays the current list of networks in your project. Links fr
 
 ![[projects_8.png]]
 
-   See also: [[Adding and Removing Nanopubs]]
+  From the project page you can also find the union or intersection of two or more Networks.  Please see: [[Combining Networks]]
+  
+  See also: [[Adding and Removing Nanopubs]]
