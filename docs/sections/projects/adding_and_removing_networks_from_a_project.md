@@ -20,6 +20,10 @@ The Project page displays the current list of networks in your project. Links fr
 
 ![[projects_8.png]]
 
+If the active Network is not in the active Project, a warning will appear on the Project Landing page, along with the Add to Project icon.
+
+![[projects8p.jpg]]
+
 ### From the project page you can also find the union or intersection of two or more Networks. 
   
   Please see: [[Combining Networks]]
