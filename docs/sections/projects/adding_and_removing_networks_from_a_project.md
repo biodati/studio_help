@@ -2,7 +2,7 @@
 
 The Project page displays the current list of networks in your project. Links from the Project page will take you to Network Search Or Network Creation, where you can add networks to your project.
 
-![[projects_4.png]]
+![[projects4.jpg]]
 
    In Network Search, an earmark indicates which networks have already been added to your project. Included in the Network Hover Icons is the ADD to Project icon. Click it to add a network to your active project.
 
@@ -14,12 +14,15 @@ The Project page displays the current list of networks in your project. Links fr
 
    The Remove Network hover icon is also available in the Network list on the Project page.
 
-![[projects_7.png]]
+![[projects7.jpg]]
 
    In Network Creation, the Add To Active Project check box will appear  **if**  a Project is active. Click it to add your new network to the active project.
 
 ![[projects_8.png]]
 
-  From the project page you can also find the union or intersection of two or more Networks.  Please see: [[Combining Networks]]
+  ### From the project page you can also find the union or intersection of two or more Networks. 
+  
+  Please see: [[Combining Networks]]
+  
   
   See also: [[Adding and Removing Nanopubs]]
