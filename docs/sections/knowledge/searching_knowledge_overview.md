@@ -24,6 +24,10 @@ Knowledge Search Facets are divided by Status (nanopub curation status), Owners 
 For more information on the use of Facets see  [[Search Facet Navigation]]
 See also [[Nanopub Statuses and What They Mean]]
 
+You can page through your nanopub list by using the arrow icons at the top of the list.
+
+![[knowledge8p.jpg]]
+
 When you select (click) a nanopub, you will open the Nanopub Review screen.
 
 ![[knowledge 9.jpg]]
