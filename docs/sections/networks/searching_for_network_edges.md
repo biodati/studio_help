@@ -76,6 +76,8 @@ One of the search facets that can be used to filter the edges in your search is 
 
 *   **computed**  - edge created from the assertion by list expansion. (either orthologized or primary) - e.g. hasActivity, hasComponent relationships
 
-*   **causal**  - edge much be a causal edge - e.g. BEL causal relationships such as increases, decreases, etc
+*   **causal**  - edge must be a causal edge - e.g. BEL causal relationships such as increases, decreases, etc
+
+*   **backbones** - backbone or foundational edge, e.g. gene -> mRNA -> protein edges, etc. These are created from a separate collection of backbone nanopubs managed by the Studio Admins.
 
 [[The BEL pipeline]]
