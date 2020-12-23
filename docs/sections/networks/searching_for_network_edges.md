@@ -38,6 +38,9 @@ Example search string components (use  **AND**  ,  **OR**  , or  **AND NOT**  to
 *  annotation\_label:saliva  **OR**  collections:test1
 *  annotation\_label:"rheumatoid arthritis"  **AND**  edge\_type:original
 *  annotation\_label:"rheumatoid arthritis"  **AND NOT**  edge\_type:computed
+*  species_labels:human
+*  species_ids:TAX:9606  
+*  species:TAX:9606 
 
 ![[networks_59.png]]
 
@@ -78,6 +81,6 @@ One of the search facets that can be used to filter the edges in your search is 
 
 *   **causal**  - edge must be a causal edge - e.g. BEL causal relationships such as increases, decreases, etc
 
-*   **backbones** - backbone or foundational edge, e.g. gene -> mRNA -> protein edges, etc. These are created from a separate collection of backbone nanopubs managed by the Studio Admins.
+*   **backbones** - backbone or foundational edges, e.g. gene transcribedTo mRNA, mRNA translatedTo protein edges, etc. These are created from a separate collection of backbone nanopubs managed by the Studio Admins.
 
 [[The BEL pipeline]]
