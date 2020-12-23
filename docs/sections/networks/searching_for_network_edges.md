@@ -41,6 +41,9 @@ Example search string components (use  **AND**  ,  **OR**  , or  **AND NOT**  to
 *  species_labels:human
 *  species_ids:TAX:9606  
 *  species:TAX:9606 
+*  annotation_label:human
+
+**NOTE: species_labels:human will return edges that contain human components (human edges), while annotaion_label:human will return the edges from nanopubs that are annotated as human, regardless of edge species.
 
 ![[networks_59.png]]
 
