@@ -19,7 +19,7 @@ The BEL pipeline adds **Orthologized Edges**- equivalent edges in different spec
 
 **Computed Edges** are computer generated edges added to aid Network building.  They include hasMember, hasComponent, hasActivity, hasModification, hasFragment, hasLocation, equivalentTo, hasReactant and hasProduct relation containing edges. They are also orthologized, in this case, hasActivity edges are added, generating *three new edges*, for a total of six edges from this one assertion.  
 
-**Backbone Edges**, translatedTo and transcribedTo containing edges, are computer generated edges available in the Edge Store to aid Network building.  They are not associated with specific nanopubs.
+**Backbone Edges**, translatedTo and transcribedTo containing edges, are created from a separate collection of backbone nanopubs managed by the Studio Admins.
 
 ## Special Edges
 
